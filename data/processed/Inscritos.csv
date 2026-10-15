@@ -1,0 +1,723 @@
+id_inscrito,documento,nombre,genero,edad,ciudad,proyecto,canal_convocatoria,gestor,estrato,fecha_inscripcion,correo,celular
+KP-00670,1081624071,Camila Ortiz Pineda,F,20.0,Bogotá,Impulsa Mujer,Redes sociales,G04,2,2026-02-03,camila7001@outlook.com,3188692956
+KP-00557,1060304725,Angie Ramírez Gómez,F,25.0,Bogotá,Impulsa Mujer,Redes sociales,G05,1,2026-02-04,angie5826@gmail.com,3055349000
+KP-00462,1086701248,Cristian Ortiz Torres,F,27.0,Bogotá,Talento Digital,Redes sociales,G05,2,2026-02-04,cristian5126@outlook.com,3678766397
+KP-00590,1048716090,Steven López Ramírez,F,30.0,Barranquilla,Impulsa Mujer,Aliado,G03,2,2026-02-04,steven3015@hotmail.com,3955668334
+KP-00165,1099940210,Juan Muñoz Gómez,F,18.0,Cali,Ruta Empleo Joven,Redes sociales,G03,1,2026-02-04,juan9400@gmail.com,3746909335
+KP-00549,1052264928,Sara Martínez Quintero,F,21.0,Medellín,Talento Digital,Redes sociales,G03,2,2026-02-04,sara4194@hotmail.com,3487242773
+KP-00443,1098898092,Natalia Vargas Moreno,F,29.0,Bogotá,Talento Digital,Aliado,G03,1,2026-02-04,natalia7338@hotmail.com,3949799671
+KP-00543,1056956729,Camila Díaz Rojas,M,25.0,Barranquilla,Talento Digital,Unidad móvil,G03,1,2026-02-05,camila2617@hotmail.com,3705108087
+KP-00656,1045578440,Yuli Torres Castro,F,22.0,Bogotá,Impulsa Mujer,Redes sociales,G04,1,2026-02-05,yuli9768@gmail.com,3889156681
+KP-00524,1062668829,Kevin Pineda Castro,M,26.0,Bogotá,Talento Digital,Aliado,G01,2,2026-02-05,kevin4661@hotmail.com,3814300096
+KP-00710,1092991292,María Castro Hernández,F,20.0,Bogotá,Impulsa Mujer,Redes sociales,G02,1,2026-02-06,maria6081@hotmail.com,3120920449
+KP-00493,1047579080,Natalia López Torres,F,22.0,Medellín,Talento Digital,Redes sociales,G04,2,2026-02-06,natalia9833@gmail.com,3616862396
+KP-00440,1071917830,Brayan Pineda Ortiz,F,18.0,Bogotá,Talento Digital,Unidad móvil,G03,2,2026-02-06,brayan348@hotmail.com,3053477740
+KP-00424,1031312658,Brayan Martínez Pineda,M,21.0,Bogotá,Talento Digital,Redes sociales,G03,4,2026-02-06,brayan7699@gmail.com,3990112056
+KP-00350,1097656161,Angie Moreno Díaz,M,26.0,Bogotá,Talento Digital,Referido,G05,1,2026-02-07,angie4736@outlook.com,3735263151
+KP-00175,1047926772,Karen Vargas Martínez,M,22.0,Soacha,Ruta Empleo Joven,Redes sociales,G06,3,2026-02-07,karen6840@outlook.com,3718393394
+KP-00531,1020722862,Valentina Torres Moreno,F,20.0,Bogotá,Talento Digital,Referido,G02,3,2026-02-07,valentina8195@outlook.com,3917888837
+KP-00261,1034603952,Santiago Díaz Díaz,F,22.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G06,1,2026-02-08,santiago584@gmail.com,3813841711
+KP-00620,1033308980,Santiago Suárez Vargas,F,18.0,Bogotá,Impulsa Mujer,Referido,G01,2,2026-02-08,santiago4997@outlook.com,3034353782
+KP-00027,1093631221,Sebastián López Ortiz,F,19.0,Soacha,Ruta Empleo Joven,Aliado,G06,1,2026-02-08,sebastian771@outlook.com,3352637525
+KP-00009,1067563921,Daniela Suárez Moreno,F,28.0,Soacha,Ruta Empleo Joven,Unidad móvil,G06,1,2026-02-08,daniela6678@gmail.com,3442559700
+KP-00613,1059438257,Natalia Rodríguez López,F,26.0,Barranquilla,Impulsa Mujer,Redes sociales,G06,2,2026-02-09,natalia5254@hotmail.com,3994440460
+KP-00556,1001453406,Sara Rodríguez Rojas,F,21.0,Medellín,Impulsa Mujer,Unidad móvil,G02,3,2026-02-09,sara5458@outlook.com,3852922637
+KP-00567,1041507795,Sara Suárez Martínez,F,22.0,Soacha,Impulsa Mujer,Redes sociales,G06,1,2026-02-09,sara4237@gmail.com,3529893778
+KP-00069,1060140417,Steven Suárez Rodríguez,M,31.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G02,1,2026-02-09,steven9666@gmail.com,3335632100
+KP-00472,1042725456,Paula Hernández Castro,F,26.0,Bogotá,Talento Digital,Unidad móvil,G02,2,2026-02-09,paula1012@gmail.com,3855093354
+KP-00240,1034810852,Diego Quintero Torres,M,18.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G02,1,2026-02-10,diego178@hotmail.com,3063079119
+KP-00553,1093629850,Natalia Quintero Gómez,F,22.0,Soacha,Impulsa Mujer,Unidad móvil,G01,1,2026-02-10,natalia2953@gmail.com,3204114164
+KP-00646,1058431507,Laura López Rojas,F,32.0,Cali,Impulsa Mujer,Redes sociales,G04,3,2026-02-10,laura3926@gmail.com,3136534143
+KP-00197,1061494936,Daniela Pineda Vargas,M,24.0,Medellín,Ruta Empleo Joven,Referido,G05,2,2026-02-10,daniela1627@hotmail.com,3795301013
+KP-00566,1088686138,Sara López Pineda,F,22.0,Bogotá,Impulsa Mujer,Aliado,G03,4,2026-02-10,sara1123@gmail.com,3415441858
+KP-00679,1003022041,Karen Suárez Vargas,,31.0,Barranquilla,Impulsa Mujer,Unidad móvil,G01,2,2026-02-10,karen4394@gmail.com,3356910734
+KP-00586,1067710232,Óscar Torres Torres,F,,Soacha,Impulsa Mujer,Referido,G04,3,2026-02-11,oscar8868@outlook.com,3220442135
+KP-00401,1055658794,Angie Muñoz López,F,28.0,Bogotá,Talento Digital,Unidad móvil,G05,2,2026-02-11,angie5765@outlook.com,3623429247
+KP-00265,1062641314,Brayan Torres Castro,F,25.0,Bogotá,Ruta Empleo Joven,Redes sociales,G01,1,2026-02-11,brayan621@gmail.com,3923458493
+KP-00142,1059557746,Daniela Hernández Pineda,F,29.0,Barranquilla,Ruta Empleo Joven,Aliado,G02,2,2026-02-12,daniela663@hotmail.com,3528072407
+KP-00565,1012963302,Felipe Ortiz Muñoz,F,,Bogotá,Impulsa Mujer,Unidad móvil,G05,1,2026-02-12,felipe4450@hotmail.com,3264931892
+KP-00239,1019420180,Brayan Suárez Quintero,F,28.0,Cali,Ruta Empleo Joven,Redes sociales,G04,1,2026-02-12,brayan8693@gmail.com,3290565238
+KP-00167,1006848292,Kevin Torres Quintero,M,26.0,Bogotá,Ruta Empleo Joven,Redes sociales,G05,4,2026-02-13,kevin8712@gmail.com,3933736226
+KP-00437,1036781218,Óscar López Rojas,F,23.0,Bogotá,Talento Digital,Redes sociales,G04,2,2026-02-13,oscar1602@hotmail.com,3489578775
+KP-00530,1007311304,Óscar Rojas Quintero,F,23.0,Bogotá,Talento Digital,Redes sociales,G05,1,2026-02-13,oscar5776@hotmail.com,3528851442
+KP-00129,1075952763,Jhon Moreno Rojas,F,27.0,Medellín,Ruta Empleo Joven,Unidad móvil,G03,1,2026-02-14,jhon4481@gmail.com,3420095686
+KP-00285,1027879989,Andrés Martínez Rodríguez,F,21.0,Cali,Ruta Empleo Joven,Redes sociales,G02,2,2026-02-14,andres1550@outlook.com,3757288691
+KP-00040,1098684026,Juan Ortiz Muñoz,M,23.0,Barranquilla,Ruta Empleo Joven,Unidad móvil,G02,3,2026-02-14,juan3802@gmail.com,3129639276
+KP-00187,1033977505,Paula Moreno Ortiz,F,23.0,Bogotá,Ruta Empleo Joven,Redes sociales,G02,2,2026-02-15,paula8389@outlook.com,3246578712
+KP-00015,1054606022,Angie Castro Gómez,M,26.0,Medellín,Ruta Empleo Joven,Referido,G06,2,2026-02-15,angie7243@outlook.com,3538254653
+KP-00475,1095585054,Brayan Suárez Martínez,F,27.0,Bogotá,Talento Digital,Unidad móvil,G02,3,2026-02-15,brayan7872@gmail.com,3625542361
+KP-00106,1007981038,Karen Vargas Rojas,F,18.0,Medellín,Ruta Empleo Joven,Aliado,G03,2,2026-02-15,karen3445@gmail.com,3044454279
+KP-00516,1039959230,Juan Moreno López,M,,Barranquilla,Talento Digital,Referido,G02,1,2026-02-16,juan6041@gmail.com,3359907043
+KP-00631,1006320929,Steven Suárez Suárez,F,26.0,Barranquilla,Impulsa Mujer,Redes sociales,G03,1,2026-02-16,steven6629@outlook.com,3711817849
+KP-00143,1029327851,Camila Cárdenas Gómez,M,19.0,Bogotá,Ruta Empleo Joven,Redes sociales,G02,3,2026-02-16,camila3804@gmail.com,3878716614
+KP-00306,1083997574,Luisa Ramírez Castro,F,25.0,Bogotá,Talento Digital,Referido,G03,1,2026-02-16,luisa4764@gmail.com,3213478403
+KP-00007,1026155304,Kevin López Ortiz,F,20.0,Medellín,Ruta Empleo Joven,Redes sociales,G03,2,2026-02-17,kevin4050@outlook.com,3229346298
+KP-00001,1037050052,Juan Rojas Muñoz,F,27.0,Medellín,Ruta Empleo Joven,Unidad móvil,G05,3,2026-02-17,juan6864@gmail.com,3056044625
+KP-00357,1068384841,Diego Muñoz Cárdenas,F,25.0,Bogotá,Talento Digital,Referido,G06,3,2026-02-17,diego311@hotmail.com,3676295829
+KP-00542,1030644778,Juan Rodríguez Muñoz,M,28.0,Bogotá,Talento Digital,Unidad móvil,G06,4,2026-02-18,juan7112@hotmail.com,3445257009
+KP-00511,1023898976,Natalia Quintero Martínez,M,18.0,Bogotá,Talento Digital,Redes sociales,G04,1,2026-02-18,natalia2595@hotmail.com,3095115610
+KP-00663,1056115892,Cristian Suárez Torres,F,25.0,Soacha,Impulsa Mujer,Referido,G03,1,2026-02-18,cristian842@hotmail.com,3859701395
+KP-00105,1077588137,Juan López Quintero,F,27.0,Cali,Ruta Empleo Joven,Unidad móvil,G05,3,2026-02-18,juan4857@gmail.com,3274459647
+KP-00070,1099326512,Daniela Hernández Rodríguez,M,24.0,Bogotá,Ruta Empleo Joven,Redes sociales,G05,1,2026-02-19,daniela976@outlook.com,3308099901
+KP-00494,1003575164,Kevin López Moreno,F,21.0,Soacha,Talento Digital,Referido,G01,1,2026-02-19,kevin3134@hotmail.com,3584129761
+KP-00013,1009288854,Steven Quintero Castro,F,23.0,Medellín,Ruta Empleo Joven,Unidad móvil,G06,2,2026-02-19,steven8371@gmail.com,3955148914
+KP-00269,1084225285,Valentina Vargas Hernández,F,22.0,Barranquilla,Ruta Empleo Joven,Unidad móvil,G05,2,2026-02-19,valentina7816@gmail.com,3464771750
+KP-00420,1090758070,Sebastián Pineda López,M,24.0,Bogotá,Talento Digital,Aliado,G03,2,2026-02-20,sebastian3501@hotmail.com,3287460054
+KP-00541,1065131548,Valentina López Moreno,M,24.0,Bogotá,Talento Digital,Referido,G03,1,2026-02-20,valentina7495@hotmail.com,3069349274
+KP-00699,1019861104,Santiago Hernández Rodríguez,F,18.0,Bogotá,Impulsa Mujer,Aliado,G04,2,2026-02-20,santiago6411@hotmail.com,3824355892
+KP-00687,1023113950,Kevin Moreno Castro,,23.0,Bogotá,Impulsa Mujer,Unidad móvil,G06,2,2026-02-21,kevin4045@outlook.com,3780947850
+KP-00146,1045865448,Kevin Vargas Quintero,F,23.0,Barranquilla,Ruta Empleo Joven,Redes sociales,G06,2,2026-02-22,kevin8869@hotmail.com,3077769493
+KP-00164,1009508903,Camila Hernández Gómez,M,,Bogotá,Ruta Empleo Joven,Redes sociales,G06,3,2026-02-22,camila950@outlook.com,3222727228
+KP-00050,1074765351,María Vargas Ramírez,F,20.0,Medellín,Ruta Empleo Joven,Unidad móvil,G05,3,2026-02-23,maria7839@hotmail.com,3688427187
+KP-00252,1002234957,Yuli Vargas Quintero,F,,Medellín,Ruta Empleo Joven,Redes sociales,G04,2,2026-02-23,yuli4004@outlook.com,3269043501
+KP-00035,1097583200,Yuli Cárdenas Vargas,F,20.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G02,1,2026-02-23,yuli8044@gmail.com,3399092483
+KP-00254,1098968289,Camila Rojas Ramírez,F,26.0,Bogotá,Ruta Empleo Joven,Redes sociales,G02,2,2026-02-23,camila8125@outlook.com,3367350329
+KP-00328,1001544121,María Martínez Quintero,F,29.0,Bogotá,Talento Digital,Redes sociales,G04,3,2026-02-23,maria8122@hotmail.com,3026356687
+KP-00685,1059982821,Steven Cárdenas Ortiz,F,20.0,Barranquilla,Impulsa Mujer,Aliado,G02,2,2026-02-23,steven1051@outlook.com,3926409223
+KP-00232,1020847269,Yuli Muñoz Suárez,M,20.0,Cali,Ruta Empleo Joven,Unidad móvil,G02,2,2026-02-23,yuli5987@gmail.com,3132957019
+KP-00599,1041539529,Karen Ortiz Torres,F,22.0,Medellín,Impulsa Mujer,Redes sociales,G05,3,2026-02-24,karen8096@gmail.com,3678241431
+KP-00533,1012519737,Santiago Díaz Díaz,M,28.0,Bogotá,Talento Digital,Redes sociales,G04,2,2026-02-25,santiago1545@outlook.com,3686752370
+KP-00315,1060690004,Daniela Rodríguez Moreno,M,21.0,Soacha,Talento Digital,Redes sociales,G05,1,2026-02-25,daniela3822@gmail.com,3313043975
+KP-00176,1046192159,Valentina Martínez Cárdenas,,23.0,Medellín,Ruta Empleo Joven,Referido,G05,3,2026-02-25,valentina2404@outlook.com,3066013045
+KP-00415,1031671954,Andrés Ortiz Cárdenas,M,21.0,Bogotá,Talento Digital,Redes sociales,G02,2,2026-02-25,andres1585@hotmail.com,3854347381
+KP-00626,1024760474,Angie López Hernández,F,30.0,Bogotá,Impulsa Mujer,Aliado,G01,2,2026-02-25,angie4521@gmail.com,3302495904
+KP-00621,1087459309,Óscar Pineda Torres,F,18.0,Bogotá,Impulsa Mujer,Unidad móvil,G02,3,2026-02-25,oscar9949@outlook.com,3932665647
+KP-00160,1056341994,Diego Cárdenas Pineda,F,,Barranquilla,Ruta Empleo Joven,Unidad móvil,G02,2,2026-02-25,diego6900@outlook.com,3069227498
+KP-00641,1065846093,María Díaz Díaz,F,27.0,Bogotá,Impulsa Mujer,Redes sociales,G01,3,2026-02-26,maria4168@gmail.com,3529313937
+KP-00340,1004451077,Angie Hernández Ortiz,M,27.0,Bogotá,Talento Digital,Redes sociales,G01,3,2026-02-27,angie3168@outlook.com,3700512821
+KP-00346,1058076509,Camila Gómez Suárez,F,26.0,Bogotá,Talento Digital,Redes sociales,G01,1,2026-02-27,camila9378@gmail.com,3985327924
+KP-00271,1031916082,Angie Pineda Torres,M,21.0,Bogotá,Ruta Empleo Joven,Redes sociales,G06,2,2026-02-27,angie4420@hotmail.com,3929234721
+KP-00667,1008856871,Kevin Hernández Castro,F,27.0,Barranquilla,Impulsa Mujer,Aliado,G06,2,2026-02-28,kevin7667@@hotmail.com,3328919561
+KP-00332,1014135094,Brayan Díaz Quintero,M,24.0,Bogotá,Talento Digital,Redes sociales,G01,1,2026-02-28,brayan1740@hotmail.com,3311673058
+KP-00396,1030147975,Santiago Pineda Muñoz,M,20.0,Medellín,Talento Digital,Unidad móvil,G02,2,2026-03-01,santiago9962@outlook.com,3511876442
+KP-00154,1057661956,Óscar Suárez Rojas,M,18.0,Bogotá,Ruta Empleo Joven,Referido,G01,4,2026-03-02,oscar1914@gmail.com,3175656407
+KP-00714,1074302100,Valentina Ortiz Ortiz,M,27.0,Cali,Conecta Territorio,Aliado,G02,3,2026-03-02,valentina865@outlook.com,3856279478
+KP-00713,1064604586,María Moreno Torres,M,26.0,Cali,Conecta Territorio,Aliado,G06,1,2026-03-03,maria2962@outlook.com,3588525510
+KP-00194,1041704757,Sara Rojas Pineda,NB,20.0,Medellín,Ruta Empleo Joven,Redes sociales,G06,3,2026-03-03,sara2045@gmail.com,3051528457
+KP-00716,1050983216,María Torres Hernández,F,25.0,Barranquilla,Conecta Territorio,Aliado,G02,3,2026-03-03,maria9482@gmail.com,3106835480
+KP-00390,1006215250,Jhon Muñoz Pineda,M,22.0,Medellín,Talento Digital,Referido,G06,1,2026-03-03,jhon8399@outlook.com,3475080331
+KP-00216,1046816297,Steven Muñoz Díaz,F,20.0,Bogotá,Ruta Empleo Joven,Redes sociales,G02,3,2026-03-04,steven3401@hotmail.com,3868240756
+KP-00498,1012774692,Valentina Castro Pineda,F,18.0,Medellín,Talento Digital,Redes sociales,G05,2,2026-03-04,valentina1326@gmail.com,3050872695
+KP-00668,1025656803,Natalia Muñoz Rojas,F,30.0,Bogotá,Impulsa Mujer,Referido,G06,1,2026-03-04,natalia9946@gmail.com,3117904916
+KP-00155,1040818243,Steven Moreno Castro,F,31.0,Cali,Ruta Empleo Joven,Redes sociales,G02,2,2026-03-04,steven7070@gmail.com,3854773068
+KP-00502,1018285937,Angie Rojas López,F,18.0,Medellín,Talento Digital,Unidad móvil,G06,3,2026-03-05,angie7912@hotmail.com,3727273551
+KP-00616,1085336141,Juan Rojas López,F,42.0,Soacha,Impulsa Mujer,Unidad móvil,G03,4,2026-03-05,juan6266@outlook.com,3457066112
+KP-00308,1081987496,María Pineda Gómez,,25.0,Cali,Talento Digital,Unidad móvil,G01,1,2026-03-05,maria5466@gmail.com,3141516401
+KP-00717,1044662023,Angie Torres López,F,33.0,Cali,Conecta Territorio,Aliado,G04,2,2026-03-06,angie810@outlook.com,3615867721
+KP-00190,1019055301,Paula Ramírez Quintero,F,30.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G01,3,2026-03-06,paula7069@outlook.com,3440339854
+KP-00387,1022419038,Yuli Castro Muñoz,NB,34.0,Bogotá,Talento Digital,Referido,G02,1,2026-03-06,yuli9393@outlook.com,3022915535
+KP-00442,1078136693,Brayan Gómez Vargas,M,29.0,Bogotá,Talento Digital,Aliado,G02,2,2026-03-07,brayan9360@gmail.com,3201948298
+KP-00439,1070582635,Diego Suárez López,M,22.0,Barranquilla,Talento Digital,Redes sociales,G05,2,2026-03-08,diego7681@gmail.com,3999947766
+KP-00373,1053277211,Juan Díaz Suárez,M,28.0,Medellín,Talento Digital,Unidad móvil,G03,1,2026-03-08,juan1502@outlook.com,3774544548
+KP-00196,1022035768,Cristian Quintero Muñoz,F,27.0,Barranquilla,Ruta Empleo Joven,Referido,G05,2,2026-03-08,cristian4833@outlook.com,3357298271
+KP-00349,1090983569,Brayan Martínez Gómez,M,24.0,Bogotá,Talento Digital,Aliado,G06,2,2026-03-09,brayan5760@hotmail.com,3892035028
+KP-00622,1059146673,Angie Cárdenas Muñoz,F,27.0,Cali,Impulsa Mujer,Unidad móvil,G04,3,2026-03-09,angie5161@outlook.com,3121305616
+KP-00721,1082671277,Daniela Castro Castro,F,32.0,Cali,Conecta Territorio,Aliado,G04,1,2026-03-09,daniela7889@gmail.com,3480569013
+KP-00708,1050316873,Laura Martínez Pineda,F,28.0,Soacha,Impulsa Mujer,Referido,G01,1,2026-03-09,laura7033@hotmail.com,3844116334
+KP-00102,1099063959,Jhon Moreno Pineda,M,23.0,Soacha,Ruta Empleo Joven,Redes sociales,G04,4,2026-03-09,jhon9460@outlook.com,3549296832
+KP-00179,1088261076,Yuli Quintero Rojas,F,28.0,Bogotá,Ruta Empleo Joven,Aliado,G06,1,2026-03-09,yuli2717@gmail.com,3263703088
+KP-00718,1046134107,Jhon Cárdenas Ortiz,M,25.0,Barranquilla,Conecta Territorio,Aliado,G04,1,2026-03-09,jhon4102@outlook.com,3476787899
+KP-00715,1040366347,María Pineda Suárez,F,24.0,Barranquilla,Conecta Territorio,Aliado,G02,1,2026-03-09,maria1014@outlook.com,3338756360
+KP-00722,1069962036,Luisa Suárez Ortiz,M,20.0,Cali,Conecta Territorio,Aliado,G02,2,2026-03-10,luisa9203@gmail.com,3027360931
+KP-00364,1080221635,Sebastián Rojas Ortiz,M,24.0,Bogotá,Talento Digital,Redes sociales,G03,3,2026-03-10,sebastian4589@outlook.com,3668237734
+KP-00711,1031441853,Felipe Muñoz Ramírez,M,29.0,Cali,Conecta Territorio,Aliado,G06,2,2026-03-10,felipe3862@outlook.com,3656304468
+KP-00499,1086686909,Valentina Torres Torres,M,18.0,Soacha,Talento Digital,Unidad móvil,G06,1,2026-03-10,valentina6955@gmail.com,3176879715
+KP-00712,1014577530,Andrés Suárez Ramírez,F,18.0,Barranquilla,Conecta Territorio,Aliado,G03,3,2026-03-10,andres5396@gmail.com,3304110794
+KP-00127,1095044226,Sebastián Gómez Gómez,F,26.0,Soacha,Ruta Empleo Joven,Redes sociales,G06,2,2026-03-10,sebastian5841@hotmail.com,3995709248
+KP-00059,1043418222,Laura López Suárez,F,26.0,Soacha,Ruta Empleo Joven,Redes sociales,G04,4,2026-03-11,laura2141@hotmail.com,3459480117
+KP-00720,1013635432,Kevin Martínez Vargas,M,29.0,Cali,Conecta Territorio,Aliado,G06,4,2026-03-11,kevin1788@hotmail.com,3963621678
+KP-00719,1068021995,Luisa Hernández Martínez,M,26.0,Barranquilla,Conecta Territorio,Aliado,G01,1,2026-03-11,luisa8682@hotmail.com,3450837550
+KP-00603,1026639007,María Díaz Pineda,F,18.0,Bogotá,Impulsa Mujer,Redes sociales,G01,2,2026-03-11,maria45@gmail.com,3944759104
+KP-00607,1047243600,Sara Castro Ramírez,F,29.0,Bogotá,Impulsa Mujer,Unidad móvil,G06,1,2026-03-12,sara4746@hotmail.com,3205963380
+KP-00325,1028823842,Angie Martínez Moreno,F,18.0,Bogotá,Talento Digital,Aliado,G06,3,2026-03-12,angie4353@hotmail.com,3090319327
+KP-00660,1007260607,Brayan Ramírez López,F,24.0,Bogotá,Impulsa Mujer,Unidad móvil,G04,2,2026-03-12,brayan3006@gmail.com,3283842380
+KP-00363,1053265174,Luisa López López,F,23.0,Medellín,Talento Digital,Redes sociales,G01,3,2026-03-13,luisa4863@hotmail.com,3911400682
+KP-00546,1035094943,Cristian Castro Hernández,M,19.0,Soacha,Talento Digital,Redes sociales,G03,2,2026-03-13,cristian2997@hotmail.com,3957545546
+KP-00318,1087079461,Santiago Rodríguez Torres,F,33.0,Bogotá,Talento Digital,Redes sociales,G06,2,2026-03-13,santiago5480@outlook.com,3086465062
+KP-00560,1094008765,Andrés Torres Ramírez,F,23.0,Medellín,Impulsa Mujer,Redes sociales,G04,3,2026-03-13,andres8023@outlook.com,3351331140
+KP-00144,1073300769,Brayan Muñoz Pineda,F,22.0,Medellín,Ruta Empleo Joven,Unidad móvil,G04,2,2026-03-13,brayan9582@hotmail.com,3159076995
+KP-00703,1085797921,Juan Gómez Gómez,F,29.0,Bogotá,Impulsa Mujer,Unidad móvil,G01,2,2026-03-13,juan7187@outlook.com,3699254028
+KP-00450,1056764521,Sara Moreno Gómez,M,18.0,Bogotá,Talento Digital,Redes sociales,G04,3,2026-03-13,sara1674@hotmail.com,3646872639
+KP-00374,1077362095,Camila Rojas Quintero,F,18.0,Bogotá,Talento Digital,Referido,G06,2,2026-03-13,camila8285outlook.com,3680588890
+KP-00351,1030927120,Juan Suárez Díaz,M,25.0,Barranquilla,Talento Digital,Unidad móvil,G04,2,2026-03-14,juan2997@hotmail.com,3022121562
+KP-00628,1079452975,Brayan Suárez Rodríguez,F,30.0,Bogotá,Impulsa Mujer,Unidad móvil,G05,2,2026-03-14,brayan425@outlook.com,3730059394
+KP-00640,1028779508,Angie López Hernández,F,23.0,Bogotá,Impulsa Mujer,Redes sociales,G05,2,2026-03-14,angie6074@hotmail.com,3674396420
+KP-00171,1094081782,María Castro López,M,18.0,Soacha,Ruta Empleo Joven,Referido,G03,1,2026-03-14,maria7123@outlook.com,3056472186
+KP-00268,1091438159,Daniela Torres López,M,18.0,Cali,Ruta Empleo Joven,Referido,G06,4,2026-03-14,daniela7821@outlook.com,3218788297
+KP-00574,1032429379,Laura Gómez Castro,F,18.0,Barranquilla,Impulsa Mujer,Aliado,G02,2,2026-03-15,laura9337@outlook.com,3746152142
+KP-00032,1086267976,Natalia Pineda Torres,M,18.0,Cali,Ruta Empleo Joven,Redes sociales,G06,3,2026-03-15,natalia6728@hotmail.com,3859378642
+KP-00305,1006129924,Óscar Rodríguez Muñoz,M,26.0,Bogotá,Talento Digital,Redes sociales,G05,2,2026-03-16,oscar8303@gmail.com,3919075160
+KP-00448,1097824735,Juan Rojas Pineda,M,25.0,Bogotá,Talento Digital,Aliado,G03,2,2026-03-16,juan4892@outlook.com,
+KP-00086,1089407790,Sebastián Gómez Martínez,F,,Soacha,Ruta Empleo Joven,Unidad móvil,G04,3,2026-03-16,sebastian3047@hotmail.com,3990906820
+KP-00579,1048661913,Andrés Martínez Ramírez,F,18.0,Barranquilla,Impulsa Mujer,Unidad móvil,G01,2,2026-03-16,andres2851@outlook.com,3149742122
+KP-00548,1041566047,María Ortiz Muñoz,M,20.0,Bogotá,Talento Digital,Unidad móvil,G06,3,2026-03-17,maria9606@hotmail.com,3894074998
+KP-00251,1071433185,Laura Castro Díaz,F,18.0,Cali,Ruta Empleo Joven,Unidad móvil,G06,2,2026-03-17,laura8832@hotmail.com,3067156371
+KP-00702,1075854636,Óscar Cárdenas Martínez,F,18.0,Barranquilla,Impulsa Mujer,Unidad móvil,G02,1,2026-03-18,oscar3447@hotmail.com,3488271621
+KP-00365,1042530808,Valentina Suárez Moreno,M,20.0,Cali,Talento Digital,Unidad móvil,G06,1,2026-03-18,valentina6946@outlook.com,3139857109
+KP-00222,1065318627,Brayan Moreno Ortiz,NB,18.0,Soacha,Ruta Empleo Joven,Aliado,G01,2,2026-03-18,brayan8446@hotmail.com,3038066892
+KP-00360,1025395568,Camila Pineda Moreno,F,22.0,Bogotá,Talento Digital,Redes sociales,G03,3,2026-03-19,camila534@outlook.com,3349958847
+KP-00237,1033112274,Daniela Moreno Cárdenas,F,22.0,Soacha,Ruta Empleo Joven,Aliado,G02,1,2026-03-19,daniela4085@hotmail.com,3935413911
+KP-00008,1045079963,Laura Cárdenas Rojas,M,19.0,Bogotá,Ruta Empleo Joven,Referido,G04,2,2026-03-19,laura9243@outlook.com,3635206670
+KP-00471,1041209072,Diego Ramírez Torres,F,18.0,Bogotá,Talento Digital,Aliado,G01,2,2026-03-19,diego7529@hotmail.com,3279861767
+KP-00275,1037280809,Laura Cárdenas Muñoz,F,28.0,Bogotá,Ruta Empleo Joven,Aliado,G05,3,2026-03-19,laura5692@hotmail.com,3547464640
+KP-00238,1070359050,Camila Quintero Rojas,F,20.0,Bogotá,Ruta Empleo Joven,Redes sociales,G06,1,2026-03-20,camila6910@gmail.com,3527448910
+KP-00039,1088428406,Kevin Rojas Ortiz,F,34.0,Bogotá,Ruta Empleo Joven,Aliado,G05,2,2026-03-20,kevin4481@outlook.com,3033953224
+KP-00192,1056041562,Karen Ortiz Suárez,F,19.0,Bogotá,Ruta Empleo Joven,Referido,G02,2,2026-03-20,karen7831@outlook.com,3992408727
+KP-00089,1050705551,Brayan Hernández Vargas,F,18.0,Bogotá,Ruta Empleo Joven,Referido,G01,1,2026-03-20,brayan4673@hotmail.com,3733895856
+KP-00217,1001664775,Felipe Rojas Rojas,F,19.0,Soacha,Ruta Empleo Joven,Unidad móvil,G03,2,2026-03-20,felipe8717@outlook.com,3027400792
+KP-00016,1014517371,Sara Vargas Vargas,M,22.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G05,1,2026-03-20,sara7519@hotmail.com,3666569935
+KP-00469,1072967467,Camila Pineda Torres,M,25.0,Cali,Talento Digital,Unidad móvil,G01,3,2026-03-20,camila9931@hotmail.com,3238513807
+KP-00642,1072852686,Angie Vargas Martínez,F,22.0,Bogotá,Impulsa Mujer,Referido,G02,1,2026-03-20,angie299@gmail.com,3857587654
+KP-00087,1005149166,Luisa Rojas Pineda,F,29.0,Soacha,Ruta Empleo Joven,Aliado,G05,4,2026-03-20,luisa9559@outlook.com,3375046245
+KP-00072,1088016611,Luisa Torres Cárdenas,F,24.0,Medellín,Ruta Empleo Joven,Redes sociales,G03,2,2026-03-20,luisa2490@outlook.com,3523001154
+KP-00066,1072621362,Karen Muñoz Torres,F,34.0,Barranquilla,Ruta Empleo Joven,Aliado,G01,1,2026-03-20,karen3115@hotmail.com,3166359338
+KP-00380,1012475175,Óscar Torres Castro,M,20.0,Bogotá,Talento Digital,Unidad móvil,G05,1,2026-03-20,oscar2773@hotmail.com,3198178949
+KP-00226,1046400619,Valentina Muñoz Quintero,F,27.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G06,3,2026-03-21,valentina2237@hotmail.com,3834120893
+KP-00188,1050237099,María Ramírez Quintero,M,26.0,Cali,Ruta Empleo Joven,Redes sociales,G03,1,2026-03-22,maria9535@hotmail.com,3194233465
+KP-00352,1033981305,Kevin Hernández Castro,F,18.0,Cali,Talento Digital,Referido,G01,1,2026-03-22,kevin9186@outlook.com,3060831567
+KP-00400,1017107005,Juan Ortiz Vargas,F,20.0,Soacha,Talento Digital,Redes sociales,G04,1,2026-03-22,juan2796@outlook.com,3567506141
+KP-00060,1027889563,Valentina Rodríguez Vargas,M,33.0,Bogotá,Ruta Empleo Joven,Referido,G04,2,2026-03-23,valentina349@gmail.com,3372248239
+KP-00152,1063905327,Angie Hernández Muñoz,F,27.0,Barranquilla,Ruta Empleo Joven,Aliado,G02,3,2026-03-23,angie9980@outlook.com,3120855465
+KP-00255,1024467177,Sara Muñoz Rodríguez,M,27.0,Soacha,Ruta Empleo Joven,Redes sociales,G04,2,2026-03-23,sara9493@outlook.com,
+KP-00611,1084088125,Sebastián Ortiz Gómez,F,31.0,Bogotá,Impulsa Mujer,Redes sociales,G03,2,2026-03-23,sebastian6555@hotmail.com,3614403134
+KP-00114,1072379428,Óscar López Castro,F,,Cali,Ruta Empleo Joven,Redes sociales,G04,2,2026-03-24,oscar6628@gmail.com,3736756690
+KP-00109,1096446995,Jhon López Vargas,M,29.0,Soacha,Ruta Empleo Joven,Redes sociales,G06,1,2026-03-24,jhon9887@hotmail.com,3184903106
+KP-00103,1040066801,Laura Rodríguez López,M,18.0,Bogotá,Ruta Empleo Joven,Aliado,G05,2,2026-03-24,laura7452@gmail.com,3674878490
+KP-00370,1044105882,Laura Torres Torres,F,27.0,Cali,Talento Digital,Referido,G04,2,2026-03-24,laura8479@hotmail.com,3912836833
+KP-00170,1013623694,Juan Martínez Suárez,M,27.0,Medellín,Ruta Empleo Joven,Redes sociales,G05,3,2026-03-25,juan4301@outlook.com,3210781068
+KP-00112,1052695557,Óscar Pineda Gómez,M,23.0,Medellín,Ruta Empleo Joven,Unidad móvil,G01,2,2026-03-25,oscar50@hotmail.com,3770755757
+KP-00091,1098702979,Juan Moreno Quintero,F,29.0,Soacha,Ruta Empleo Joven,Aliado,G01,1,2026-03-25,juan5781@outlook,3785688149
+KP-00406,1060108329,Angie López Torres,F,18.0,Soacha,Talento Digital,Referido,G03,2,2026-03-25,angie4940@gmail.com,3815834502
+KP-00383,1047502155,Cristian Rodríguez Castro,F,19.0,Medellín,Talento Digital,Redes sociales,G02,1,2026-03-26,cristian5777@hotmail.com,3635122790
+KP-00329,1085144909,Santiago Quintero Muñoz,M,18.0,Bogotá,Talento Digital,Aliado,G01,1,2026-03-26,santiago8381@outlook.com,3965841928
+KP-00447,1055425909,Steven Quintero Rodríguez,M,22.0,Cali,Talento Digital,Unidad móvil,G05,3,2026-03-26,steven897@hotmail.com,3895129305
+KP-00375,1058550026,Natalia Torres Quintero,M,18.0,Bogotá,Talento Digital,Unidad móvil,G05,2,2026-03-26,natalia8325@hotmail.com,3955002531
+KP-00647,1024618839,María Torres López,F,23.0,Bogotá,Impulsa Mujer,Redes sociales,G02,1,2026-03-27,maria2657@outlook.com,3901602260
+KP-00704,1095974459,Karen Muñoz Cárdenas,F,27.0,Bogotá,Impulsa Mujer,Unidad móvil,G06,2,2026-03-27,karen2556@gmail.com,3003823471
+KP-00393,1026884063,Óscar Gómez López,M,18.0,Bogotá,Talento Digital,Redes sociales,G01,3,2026-03-27,oscar7530@outlook,3221966775
+KP-00377,1045299263,Natalia Moreno Vargas,F,32.0,Medellín,Talento Digital,Redes sociales,G05,1,2026-03-27,natalia4658@hotmail.com,3037531094
+KP-00034,1011963213,Andrés Ramírez Ortiz,M,27.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G04,2,2026-03-28,andres5175@hotmail.com,3013714353
+KP-00218,1047046193,Brayan Rojas Cárdenas,M,21.0,Bogotá,Ruta Empleo Joven,Redes sociales,G01,2,2026-03-28,brayan1255@hotmail.com,3671370291
+KP-00416,1017799089,Brayan López Rodríguez,M,35.0,Bogotá,Talento Digital,Aliado,G01,1,2026-03-28,brayan7878@hotmail.com,3600164435
+KP-00126,1023646038,Natalia Moreno Ramírez,M,20.0,Bogotá,Ruta Empleo Joven,Aliado,G04,3,2026-03-28,natalia2664@outlook.com,3879711837
+KP-00379,1044689577,Yuli Castro Rodríguez,F,19.0,Cali,Talento Digital,Aliado,G03,2,2026-03-28,yuli1900@hotmail.com,3383025937
+KP-00584,1060512468,Diego Hernández Hernández,F,18.0,Barranquilla,Impulsa Mujer,Redes sociales,G01,2,2026-03-28,diego5403@gmail.com,3111733687
+KP-00004,1046581829,Karen Quintero Cárdenas,F,23.0,Bogotá,Ruta Empleo Joven,Referido,G03,2,2026-03-29,karen7959@gmail.com,3602342745
+KP-00236,1031017442,Yuli Ramírez Muñoz,F,23.0,Medellín,Ruta Empleo Joven,Redes sociales,G05,3,2026-03-29,yuli6640@hotmail.com,3665190047
+KP-00025,1043814500,Cristian López Pineda,F,18.0,Cali,Ruta Empleo Joven,Unidad móvil,G03,2,2026-03-29,cristian3805@gmail.com,3895155495
+KP-00451,1030595000,Daniela Torres Rodríguez,M,18.0,Bogotá,Talento Digital,Unidad móvil,G04,2,2026-03-30,daniela3323@hotmail.com,3646459371
+KP-00199,1099188963,Natalia Hernández Gómez,F,19.0,Medellín,Ruta Empleo Joven,Unidad móvil,G05,2,2026-03-30,natalia8488@gmail.com,3480457951
+KP-00619,1090580509,Óscar Ramírez Rojas,F,26.0,Medellín,Impulsa Mujer,Redes sociales,G02,3,2026-03-30,oscar751@hotmail.com,3358264156
+KP-00359,1092299247,Laura Muñoz Castro,M,18.0,Bogotá,Talento Digital,Unidad móvil,G03,2,2026-03-30,laura6270@outlook.com,3567977851
+KP-00659,1047838171,Natalia Martínez Díaz,F,19.0,Medellín,Impulsa Mujer,Aliado,G06,1,2026-03-30,natalia9270@outlook.com,3322298713
+KP-00065,1080265861,Luisa Hernández Ramírez,F,26.0,Soacha,Ruta Empleo Joven,Unidad móvil,G06,2,2026-03-31,luisa5578@hotmail.com,3974129216
+KP-00432,1061915705,Sara Ortiz Hernández,F,29.0,Bogotá,Talento Digital,Unidad móvil,G02,3,2026-04-01,sara1105@gmail.com,3200517252
+KP-00233,1029616821,Angie López Torres,F,27.0,Bogotá,Ruta Empleo Joven,Redes sociales,G06,2,2026-04-01,angie3260@hotmail.com,3242937984
+KP-00347,1041414363,Valentina Cárdenas Pineda,M,25.0,Cali,Talento Digital,Redes sociales,G06,2,2026-04-01,valentina5089@gmail.com,3910952037
+KP-00684,1093854749,Cristian Hernández Suárez,F,34.0,Bogotá,Impulsa Mujer,Redes sociales,G03,3,2026-04-02,cristian845@gmail.com,3326566192
+KP-00182,1037278099,Luisa Díaz Vargas,F,29.0,Soacha,Ruta Empleo Joven,Unidad móvil,G03,2,2026-04-02,luisa2640@gmail.com,3598195596
+KP-00692,1053992597,Jhon Suárez Gómez,F,23.0,Cali,Impulsa Mujer,Aliado,G03,1,2026-04-02,jhon9856@outlook.com,3065602583
+KP-00084,1034717927,Juan Muñoz Muñoz,M,23.0,Soacha,Ruta Empleo Joven,Redes sociales,G03,3,2026-04-02,juan6158@outlook.com,3281326407
+KP-00409,1052938372,Valentina Vargas Díaz,M,25.0,Bogotá,Talento Digital,Redes sociales,G04,2,2026-04-02,valentina7215@gmail.com,3411517541
+KP-00151,1001218496,Natalia Quintero Muñoz,M,18.0,Medellín,Ruta Empleo Joven,Unidad móvil,G02,3,2026-04-03,natalia6676@outlook.com,3734201873
+KP-00078,1032896947,Jhon Martínez Suárez,F,20.0,Bogotá,Ruta Empleo Joven,Redes sociales,G05,2,2026-04-04,jhon8732@hotmail.com,3907469994
+KP-00147,1091812162,Óscar Moreno Ramírez,F,30.0,Bogotá,Ruta Empleo Joven,Referido,G02,1,2026-04-04,oscar9944@outlook.com,3025880191
+KP-00253,1091184719,Valentina Ortiz Pineda,F,18.0,Barranquilla,Ruta Empleo Joven,Redes sociales,G05,4,2026-04-04,valentina5371@outlook.com,
+KP-00571,1044043192,Laura Díaz Muñoz,F,20.0,Bogotá,Impulsa Mujer,Referido,G04,3,2026-04-05,laura5597@hotmail.com,3594634486
+KP-00497,1095082233,Kevin Ramírez Rodríguez,F,27.0,Bogotá,Talento Digital,Unidad móvil,G04,2,2026-04-05,kevin8720@gmail.com,3238709124
+KP-00657,1078676825,Juan Gómez Muñoz,F,26.0,Bogotá,Impulsa Mujer,Redes sociales,G01,3,2026-04-05,juan7637@hotmail.com,3525942296
+KP-00130,1048220085,Camila Martínez Hernández,F,23.0,Medellín,Ruta Empleo Joven,Aliado,G04,1,2026-04-05,camila8475@gmail.com,3780068073
+KP-00413,1001840117,Cristian Ortiz Pineda,M,21.0,Cali,Talento Digital,Referido,G04,2,2026-04-05,cristian7387@hotmail.com,3479158675
+KP-00459,1082535529,Andrés Ramírez Ortiz,F,24.0,Barranquilla,Talento Digital,Unidad móvil,G04,1,2026-04-05,andres3692@gmail.com,3418178068
+KP-00020,1018904295,Diego Cárdenas Suárez,M,20.0,Cali,Ruta Empleo Joven,Unidad móvil,G06,2,2026-04-05,diego159@hotmail.com,3315940780
+KP-00138,1065206531,Sebastián Quintero Moreno,,24.0,Barranquilla,Ruta Empleo Joven,Referido,G01,4,2026-04-06,sebastian6108@hotmail.com,3338349167
+KP-00575,1083614148,Santiago Suárez Torres,F,22.0,Medellín,Impulsa Mujer,Aliado,G05,1,2026-04-06,santiago1192@hotmail.com,3574250545
+KP-00211,1036791369,Daniela Hernández Castro,M,18.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G05,2,2026-04-06,daniela7573@outlook.com,3242264965
+KP-00038,1007635499,Jhon Quintero Rodríguez,F,31.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G02,4,2026-04-06,jhon6765@gmail.com,3787187222
+KP-00057,1009350345,Jhon Suárez Ramírez,NB,28.0,Bogotá,Ruta Empleo Joven,Redes sociales,G03,4,2026-04-06,jhon1378@outlook.com,3076429912
+KP-00445,1001038698,Jhon Ortiz Rodríguez,F,29.0,Cali,Talento Digital,Redes sociales,G01,2,2026-04-06,jhon5744@hotmail.com,3105482956
+KP-00691,1031690095,Steven Díaz Ramírez,F,28.0,Bogotá,Impulsa Mujer,Redes sociales,G05,1,2026-04-07,steven2784@gmail.com,3043726872
+KP-00177,1080610684,Kevin Moreno Díaz,F,18.0,Medellín,Ruta Empleo Joven,Referido,G05,1,2026-04-07,kevin5254@hotmail.com,3694086599
+KP-00030,1002537345,Cristian Castro Quintero,F,22.0,Soacha,Ruta Empleo Joven,Unidad móvil,G03,3,2026-04-07,cristian1563@gmail.com,3414725799
+KP-00428,1086308481,Yuli Pineda Moreno,F,21.0,Cali,Talento Digital,Referido,G02,3,2026-04-08,yuli387@outlook.com,3314879229
+KP-00283,1013644225,Steven Muñoz Muñoz,F,26.0,Medellín,Ruta Empleo Joven,Aliado,G01,3,2026-04-08,steven3480@outlook.com,3285787745
+KP-00331,1024274078,Felipe Rodríguez Quintero,F,22.0,Cali,Talento Digital,Unidad móvil,G01,2,2026-04-08,felipe724@hotmail.com,3372425974
+KP-00342,1096654963,Valentina Ramírez Muñoz,M,20.0,Bogotá,Talento Digital,Redes sociales,G01,1,2026-04-09,valentina7947@gmail.com,3314520987
+KP-00476,1033142364,Laura Vargas Martínez,F,18.0,Bogotá,Talento Digital,Unidad móvil,G02,3,2026-04-09,laura1354@hotmail.com,3698136232
+KP-00559,1034337863,Laura López Ortiz,F,19.0,Barranquilla,Impulsa Mujer,Aliado,G06,3,2026-04-09,laura566@outlook.com,3526719591
+KP-00429,1072136196,Andrés Quintero Moreno,,33.0,Bogotá,Talento Digital,Aliado,G02,1,2026-04-10,andres103@gmail.com,3909783319
+KP-00018,1092624911,Natalia Quintero Cárdenas,F,29.0,Bogotá,Ruta Empleo Joven,Redes sociales,G04,1,2026-04-10,natalia7845@hotmail.com,3954585126
+KP-00047,1056935016,Laura Ortiz Quintero,F,20.0,Bogotá,Ruta Empleo Joven,Redes sociales,G03,2,2026-04-10,laura2807@gmail.com,3442998760
+KP-00348,1034228735,Cristian Rojas Muñoz,M,30.0,Soacha,Talento Digital,Aliado,G01,4,2026-04-10,cristian8992@outlook.com,3553738803
+KP-00508,1093078522,Angie Rojas Vargas,M,23.0,Cali,Talento Digital,Redes sociales,G01,3,2026-04-11,angie1760@gmail.com,3043585972
+KP-00262,1085226072,Cristian Cárdenas Torres,M,19.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G01,2,2026-04-11,cristian7262@gmail.com,3688819360
+KP-00372,1082642369,Sebastián Rojas Hernández,M,24.0,Medellín,Talento Digital,Redes sociales,G04,1,2026-04-11,sebastian1427@hotmail.com,3180140386
+KP-00322,1033858045,Angie Rodríguez Torres,M,25.0,Bogotá,Talento Digital,Redes sociales,G01,3,2026-04-12,angie3078@hotmail.com,3985225456
+KP-00523,1089566931,Sara Castro Hernández,M,25.0,Barranquilla,Talento Digital,Redes sociales,G01,2,2026-04-12,sara8776@gmail.com,3468348230
+KP-00452,1099695920,Valentina Díaz Hernández,NB,26.0,Cali,Talento Digital,Redes sociales,G01,3,2026-04-12,valentina8784@outlook.com,3466208130
+KP-00480,1096402856,Steven López Quintero,F,,Cali,Talento Digital,Unidad móvil,G01,2,2026-04-12,steven325@outlook.com,3811946147
+KP-00690,1028298888,Laura Rojas Pineda,F,32.0,Medellín,Impulsa Mujer,Redes sociales,G05,3,2026-04-13,laura8174@outlook.com,3601357202
+KP-00434,1018735905,María Castro López,F,26.0,Bogotá,Talento Digital,Aliado,G04,2,2026-04-13,maria5225@gmail.com,3318709212
+KP-00597,1059743952,Natalia Cárdenas Pineda,F,19.0,Bogotá,Impulsa Mujer,Unidad móvil,G03,4,2026-04-13,natalia8452@hotmail.com,3434499692
+KP-00195,1001140507,Paula López Cárdenas,F,30.0,Cali,Ruta Empleo Joven,Redes sociales,G01,1,2026-04-13,paula3001@hotmail.com,3913410583
+KP-00145,1000573984,Andrés Hernández Martínez,M,21.0,Medellín,Ruta Empleo Joven,Redes sociales,G02,2,2026-04-13,andres9232@hotmail.com,3537129352
+KP-00510,1044664909,Steven Muñoz Vargas,F,22.0,Bogotá,Talento Digital,Aliado,G02,2,2026-04-13,steven9750@outlook.com,3428076221
+KP-00614,1074736215,Steven Muñoz Quintero,F,20.0,Medellín,Impulsa Mujer,Redes sociales,G06,2,2026-04-14,steven1098@hotmail.com,3020012502
+KP-00461,1036250626,Jhon Vargas Quintero,F,24.0,Bogotá,Talento Digital,Redes sociales,G04,1,2026-04-14,jhon1841@gmail.com,3632505033
+KP-00520,1095156788,Juan Rodríguez Muñoz,F,25.0,Cali,Talento Digital,Referido,G04,3,2026-04-14,juan4917@hotmail.com,3355921957
+KP-00209,1002973915,Laura López Ramírez,M,35.0,Cali,Ruta Empleo Joven,Referido,G01,3,2026-04-15,laura9202@hotmail.com,3937220314
+KP-00693,1092656422,Felipe Rojas Suárez,F,33.0,Medellín,Impulsa Mujer,Aliado,G01,2,2026-04-15,felipe90@outlook.com,3060025684
+KP-00137,1044689764,Óscar Suárez Vargas,F,23.0,Soacha,Ruta Empleo Joven,Unidad móvil,G06,3,2026-04-16,oscar6565@hotmail.com,3997831435
+KP-00518,1050053119,Angie Torres Moreno,F,19.0,Bogotá,Talento Digital,Redes sociales,G02,3,2026-04-16,angie4929@outlook.com,3969139907
+KP-00258,1027311320,Paula Gómez Hernández,M,21.0,Bogotá,Ruta Empleo Joven,Aliado,G01,3,2026-04-16,paula5154@hotmail.com,3770705431
+KP-00180,1084748070,Paula Cárdenas Suárez,M,22.0,Soacha,Ruta Empleo Joven,Unidad móvil,G05,1,2026-04-16,paula5768@hotmail.com,3744644126
+KP-00281,1004286264,Paula Moreno Martínez,F,18.0,Medellín,Ruta Empleo Joven,Unidad móvil,G01,2,2026-04-17,paula3592@hotmail.com,3510164891
+KP-00198,1023372783,Angie Rojas Rodríguez,M,18.0,Bogotá,Ruta Empleo Joven,Referido,G04,2,2026-04-17,angie7088@hotmail.com,3126747905
+KP-00294,1002646578,Diego Muñoz López,F,21.0,Cali,Ruta Empleo Joven,Redes sociales,G01,3,2026-04-18,diego6705@gmail.com,3773782655
+KP-00096,1071364262,Juan Rodríguez Vargas,M,28.0,Bogotá,Ruta Empleo Joven,Referido,G05,4,2026-04-18,juan9737@hotmail.com,3230642998
+KP-00011,1056704975,Óscar Muñoz Martínez,F,21.0,Medellín,Ruta Empleo Joven,Redes sociales,G02,4,2026-04-19,oscar457@gmail.com,3594440716
+KP-00635,1095134092,Paula Rojas Rodríguez,F,33.0,Medellín,Impulsa Mujer,Redes sociales,G03,2,2026-04-19,paula7948@outlook.com,3541987331
+KP-00625,1025591074,Camila López Suárez,F,18.0,Barranquilla,Impulsa Mujer,Referido,G04,2,2026-04-19,camila8066@gmail.com,3122919484
+KP-00249,1053200008,Cristian Ramírez Pineda,F,18.0,Bogotá,Ruta Empleo Joven,Aliado,G01,2,2026-04-19,cristian5796@hotmail.com,3423298176
+KP-00141,1068929866,Steven Cárdenas Castro,F,30.0,Bogotá,Ruta Empleo Joven,Aliado,G05,2,2026-04-20,steven2462@gmail.com,3614008010
+KP-00376,1085435824,Kevin Quintero Quintero,F,24.0,Soacha,Talento Digital,Redes sociales,G04,2,2026-04-20,kevin520@hotmail.com,3757294010
+KP-00399,1000864731,Juan Torres Suárez,F,,Cali,Talento Digital,Referido,G03,2,2026-04-20,juan9720@gmail.com,3700480724
+KP-00572,1087660068,Sebastián Rodríguez Rodríguez,F,28.0,Medellín,Impulsa Mujer,Redes sociales,G02,4,2026-04-20,sebastian6249@gmail.com,3074648693
+KP-00291,1044513549,Juan Suárez Martínez,M,25.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G06,2,2026-04-20,juan2098@gmail.com,3490179345
+KP-00608,1059299882,Angie Ramírez Gómez,F,21.0,Medellín,Impulsa Mujer,Unidad móvil,G04,2,2026-04-20,angie5967@gmail.com,3146701585
+KP-00293,1077004478,Laura Rodríguez Martínez,F,23.0,Bogotá,Ruta Empleo Joven,Redes sociales,G05,3,2026-04-20,laura9841@hotmail.com,3003934670
+KP-00061,1083105767,Angie Vargas Gómez,M,30.0,Medellín,Ruta Empleo Joven,Redes sociales,G05,1,2026-04-20,angie6744@hotmail.com,3363705734
+KP-00303,1096731592,Felipe Muñoz Gómez,M,32.0,Barranquilla,Talento Digital,Aliado,G06,1,2026-04-20,felipe8946@hotmail.com,3068615632
+KP-00123,1046754137,Sebastián Pineda Díaz,F,22.0,Bogotá,Ruta Empleo Joven,Referido,G05,2,2026-04-20,sebastian1972@hotmail.com,3290421774
+KP-00588,1084244155,Felipe López Muñoz,F,24.0,Bogotá,Impulsa Mujer,Redes sociales,G05,2,2026-04-21,felipe6002@gmail.com,3450237489
+KP-00666,1093294002,Kevin Gómez Vargas,F,30.0,Medellín,Impulsa Mujer,Redes sociales,G03,2,2026-04-21,kevin3914@outlook.com,3239494573
+KP-00479,1069207736,Valentina Castro Quintero,NB,26.0,Soacha,Talento Digital,Redes sociales,G05,3,2026-04-21,valentina8314@hotmail.com,3689411916
+KP-00593,1063800766,Felipe Rojas Rojas,F,18.0,Soacha,Impulsa Mujer,Redes sociales,G03,3,2026-04-22,felipe842@outlook.com,3088020803
+KP-00081,1097813584,Felipe Pineda Castro,F,27.0,Medellín,Ruta Empleo Joven,Aliado,G04,3,2026-04-22,felipe9764@hotmail,3427739555
+KP-00156,1061630159,Andrés Torres Hernández,M,23.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G01,4,2026-04-22,andres159@outlook.com,3147389176
+KP-00517,1044466039,Sebastián Pineda Díaz,M,23.0,Bogotá,Talento Digital,Redes sociales,G04,2,2026-04-22,sebastian9225@gmail.com,3443364327
+KP-00408,1012194310,Diego Hernández López,M,21.0,Bogotá,Talento Digital,Redes sociales,G05,1,2026-04-22,diego928@hotmail.com,3286626495
+KP-00382,1040264615,Luisa Suárez Cárdenas,F,28.0,Bogotá,Talento Digital,Aliado,G01,4,2026-04-22,luisa9577@outlook.com,3078820160
+KP-00278,1069824204,Camila Quintero Díaz,M,32.0,Medellín,Ruta Empleo Joven,Aliado,G04,1,2026-04-23,camila77@outlook.com,3732609980
+KP-00589,1031040829,Jhon López Vargas,F,28.0,Cali,Impulsa Mujer,Redes sociales,G06,2,2026-04-23,jhon721@outlook.com,3378423092
+KP-00321,1010959329,Brayan Ortiz Muñoz,M,19.0,Cali,Talento Digital,Unidad móvil,G05,1,2026-04-24,brayan6404@hotmail.com,3586004981
+KP-00327,1041431072,Diego Rodríguez Cárdenas,M,,Bogotá,Talento Digital,Aliado,G06,2,2026-04-24,diego995@outlook.com,3869001534
+KP-00458,1010197118,Juan Martínez Suárez,M,22.0,Bogotá,Talento Digital,Redes sociales,G04,3,2026-04-24,juan8333@outlook.com,3117080097
+KP-00338,1013009520,Steven Torres Muñoz,M,18.0,Bogotá,Talento Digital,Unidad móvil,G02,3,2026-04-24,steven5728@outlook.com,3063701708
+KP-00266,1064163701,Angie Ortiz Quintero,F,25.0,Medellín,Ruta Empleo Joven,Redes sociales,G05,1,2026-04-25,angie3514@hotmail.com,3690873698
+KP-00270,1090439276,Juan Hernández Torres,F,34.0,Bogotá,Ruta Empleo Joven,Redes sociales,G04,2,2026-04-25,juan9586@hotmail.com,3694566452
+KP-00312,1036321507,Santiago Ortiz Suárez,M,18.0,Cali,Talento Digital,Redes sociales,G06,1,2026-04-25,santiago1394@hotmail.com,3246433259
+KP-00068,1075654723,Diego Díaz Martínez,M,20.0,Soacha,Ruta Empleo Joven,Aliado,G02,1,2026-04-25,diego4140@hotmail.com,3139859356
+KP-00403,1078296103,Kevin Gómez López,F,30.0,Bogotá,Talento Digital,Unidad móvil,G03,2,2026-04-25,kevin5064@hotmail.com,3944368022
+KP-00055,1051577442,Valentina Pineda Hernández,M,22.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G04,1,2026-04-25,valentina8848@hotmail.com,3882741274
+KP-00521,1063235145,Felipe Vargas Hernández,M,24.0,Bogotá,Talento Digital,Unidad móvil,G01,3,2026-04-25,felipe5244@gmail.com,3930539361
+KP-00381,1020985114,Santiago Pineda Ramírez,F,25.0,Bogotá,Talento Digital,Redes sociales,G01,4,2026-04-25,santiago7197@gmail.com,3522746927
+KP-00185,1094563725,Óscar Ramírez Pineda,M,18.0,Medellín,Ruta Empleo Joven,Redes sociales,G01,3,2026-04-26,oscar4450@gmail.com,3810323556
+KP-00527,1008132209,Natalia Suárez Vargas,M,27.0,Bogotá,Talento Digital,Redes sociales,G06,1,2026-04-26,natalia751@hotmail.com,3927427086
+KP-00010,1044381804,Brayan Vargas Suárez,M,21.0,Soacha,Ruta Empleo Joven,Redes sociales,G06,1,2026-04-26,brayan8200@gmail.com,3722679484
+KP-00630,1068727331,Santiago Ramírez Torres,F,25.0,Soacha,Impulsa Mujer,Unidad móvil,G02,3,2026-04-26,santiago7486@hotmail.com,3649684545
+KP-00388,1046305727,Brayan Vargas Suárez,F,20.0,Bogotá,Talento Digital,Unidad móvil,G06,2,2026-04-26,brayan1523@gmail.com,3379412874
+KP-00221,1002153943,Camila Gómez Cárdenas,F,23.0,Bogotá,Ruta Empleo Joven,Redes sociales,G04,2,2026-04-26,camila4368@gmail.com,3551221152
+KP-00463,1099070937,Andrés Pineda Castro,F,24.0,Bogotá,Talento Digital,Redes sociales,G01,1,2026-04-26,andres336@outlook.com,3913102675
+KP-00526,1027152397,Jhon Torres Martínez,F,26.0,Bogotá,Talento Digital,Aliado,G03,3,2026-04-26,jhon9967@gmail.com,3855490517
+KP-00404,1019920323,Valentina Rojas Ramírez,F,33.0,Bogotá,Talento Digital,Aliado,G06,3,2026-04-27,valentina8920@outlook.com,3487742099
+KP-00263,1004863444,Brayan Hernández Quintero,F,29.0,Soacha,Ruta Empleo Joven,Aliado,G04,1,2026-04-27,brayan7176@hotmail.com,3893920777
+KP-00267,1037543663,Diego Cárdenas Martínez,F,27.0,Barranquilla,Ruta Empleo Joven,Referido,G05,1,2026-04-28,diego1348@gmail.com,3122661147
+KP-00696,1009396022,Steven Rodríguez Cárdenas,F,18.0,Bogotá,Impulsa Mujer,Redes sociales,G05,2,2026-04-28,steven2667@gmail.com,3427254070
+KP-00605,1086753058,Santiago Gómez Hernández,F,31.0,Bogotá,Impulsa Mujer,Redes sociales,G06,3,2026-04-28,santiago3007@outlook.com,3843871697
+KP-00562,1036647328,Andrés Vargas Ortiz,F,24.0,Bogotá,Impulsa Mujer,Unidad móvil,G01,1,2026-04-28,andres1083@outlook.com,3408691355
+KP-00423,1083689164,Jhon López Díaz,F,22.0,Bogotá,Talento Digital,Aliado,G01,2,2026-04-29,jhon9013@gmail.com,3942728394
+KP-00436,1041857112,Daniela Rojas Rojas,F,27.0,Medellín,Talento Digital,Redes sociales,G06,2,2026-04-29,daniela521@hotmail.com,3248219853
+KP-00507,1079493587,Sara Pineda Rodríguez,F,18.0,Bogotá,Talento Digital,Aliado,G03,1,2026-04-30,sara6447@gmail.com,3429562770
+KP-00041,1088406742,María Ortiz Hernández,M,22.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G06,2,2026-04-30,maria8790@outlook.com,3414482976
+KP-00289,1068574779,Steven Gómez Ramírez,M,22.0,Bogotá,Ruta Empleo Joven,Redes sociales,G04,1,2026-05-01,steven3546@outlook.com,3956230759
+KP-00295,1070176965,Óscar Rojas Ramírez,M,30.0,Bogotá,Ruta Empleo Joven,Redes sociales,G03,2,2026-05-01,oscar2287@gmail.com,3808313797
+KP-00538,1057340075,Luisa Rojas Martínez,F,22.0,Barranquilla,Talento Digital,Redes sociales,G02,3,2026-05-01,luisa2534@hotmail.com,3408140105
+KP-00319,1008799409,Sara Quintero López,M,21.0,Bogotá,Talento Digital,Unidad móvil,G01,1,2026-05-01,sara688@hotmail.com,3318106287
+KP-00662,1064031332,Santiago Torres Muñoz,F,27.0,Cali,Impulsa Mujer,Unidad móvil,G01,4,2026-05-01,santiago4366@hotmail.com,3314708978
+KP-00680,1034007487,Luisa Gómez Pineda,F,,Soacha,Impulsa Mujer,Redes sociales,G04,2,2026-05-02,luisa1281@outlook.com,3037081498
+KP-00207,1086877320,Diego Vargas Martínez,F,18.0,Soacha,Ruta Empleo Joven,Redes sociales,G02,1,2026-05-02,diego3463@hotmail.com,3156553316
+KP-00134,1060672328,Cristian Gómez Díaz,M,20.0,Cali,Ruta Empleo Joven,Unidad móvil,G01,2,2026-05-02,cristian2681@outlook.com,3351867827
+KP-00569,1049288408,Sebastián Vargas Martínez,F,18.0,Cali,Impulsa Mujer,Unidad móvil,G05,3,2026-05-03,sebastian3840@outlook.com,3586683971
+KP-00101,1015630687,María Martínez Gómez,F,30.0,Barranquilla,Ruta Empleo Joven,Aliado,G06,2,2026-05-03,maria3035@hotmail.com,3656807818
+KP-00689,1002974880,Sebastián Ortiz Hernández,F,23.0,Cali,Impulsa Mujer,Unidad móvil,G06,1,2026-05-04,sebastian7896@gmail.com,3352916356
+KP-00418,1031064981,Angie Martínez Moreno,M,26.0,Bogotá,Talento Digital,Redes sociales,G01,1,2026-05-04,angie4172@outlook.com,3614721041
+KP-00021,1065016605,Yuli Moreno Pineda,M,18.0,Cali,Ruta Empleo Joven,Redes sociales,G06,2,2026-05-04,yuli5976@outlook.com,3897481642
+KP-00250,1024924732,Angie Cárdenas Quintero,NB,25.0,Barranquilla,Ruta Empleo Joven,Redes sociales,G01,1,2026-05-04,angie5571@outlook.com,3365549791
+KP-00326,1068460375,Daniela Gómez Castro,F,27.0,Medellín,Talento Digital,Redes sociales,G06,4,2026-05-05,daniela4572@gmail.com,3357767214
+KP-00092,1006655933,Karen Torres Castro,M,,Bogotá,Ruta Empleo Joven,Aliado,G02,2,2026-05-05,karen6532@gmail.com,3150614656
+KP-00184,1010505061,Daniela Ramírez Ortiz,M,18.0,Bogotá,Ruta Empleo Joven,Redes sociales,G06,2,2026-05-06,daniela4885@outlook.com,3944929702
+KP-00353,1038838154,Óscar Quintero Gómez,M,26.0,Soacha,Talento Digital,Aliado,G03,1,2026-05-06,oscar9736@outlook.com,3993051338
+KP-00248,1090650740,Sara Rodríguez Hernández,M,24.0,Bogotá,Ruta Empleo Joven,Referido,G02,4,2026-05-07,sara6244@gmail.com,3407394996
+KP-00051,1055297132,Laura Rojas Cárdenas,M,24.0,Bogotá,Ruta Empleo Joven,Aliado,G05,3,2026-05-07,laura5549@gmail.com,3591840953
+KP-00100,1092753300,Paula Hernández Moreno,M,24.0,Bogotá,Ruta Empleo Joven,Aliado,G05,3,2026-05-07,paula4533@gmail.com,3169969336
+KP-00212,1041314756,Valentina Pineda Muñoz,M,21.0,Bogotá,Ruta Empleo Joven,Redes sociales,G03,2,2026-05-08,valentina5203@gmail.com,3353311661
+KP-00648,1067768393,Natalia Martínez Rodríguez,F,23.0,Bogotá,Impulsa Mujer,Unidad móvil,G03,1,2026-05-08,natalia693@hotmail.com,3045229681
+KP-00576,1077553725,Luisa Martínez Pineda,F,20.0,Bogotá,Impulsa Mujer,Aliado,G06,1,2026-05-09,luisa3606@outlook.com,3201452413
+KP-00299,1014619998,Paula Pineda Rodríguez,F,27.0,Cali,Ruta Empleo Joven,Referido,G06,2,2026-05-09,paula8136@gmail.com,3823240869
+KP-00335,1093257618,Jhon Suárez Quintero,F,25.0,Soacha,Talento Digital,Unidad móvil,G02,2,2026-05-09,jhon1752@gmail.com,3400372768
+KP-00591,1085395429,Karen López Castro,F,39.0,Barranquilla,Impulsa Mujer,Aliado,G05,1,2026-05-09,karen7923@hotmail.com,3021935411
+KP-00441,1018744145,Karen Rojas Suárez,NB,,Bogotá,Talento Digital,Redes sociales,G06,2,2026-05-10,karen1453@outlook.com,3753091222
+KP-00355,1048249212,Sara Ortiz López,NB,23.0,Soacha,Talento Digital,Unidad móvil,G05,3,2026-05-10,sara9538@outlook.com,3159365326
+KP-00058,1084616873,Yuli Torres Suárez,F,34.0,Cali,Ruta Empleo Joven,Redes sociales,G04,1,2026-05-10,yuli3872@gmail.com,3613002003
+KP-00287,1067639421,Karen López Suárez,M,29.0,Barranquilla,Ruta Empleo Joven,Referido,G05,2,2026-05-10,karen8061@hotmail.com,3379061866
+KP-00284,1057175257,Juan Moreno Castro,M,23.0,Cali,Ruta Empleo Joven,Redes sociales,G01,2,2026-05-11,juan4088@gmail.com,3383998752
+KP-00361,1080463896,Laura Ortiz Castro,M,20.0,Barranquilla,Talento Digital,Aliado,G05,2,2026-05-11,laura6149@hotmail.com,3289831615
+KP-00470,1011582954,María Ortiz Muñoz,F,28.0,Bogotá,Talento Digital,Aliado,G01,2,2026-05-11,maria6358@hotmail.com,3664873169
+KP-00514,1024873151,Felipe Ramírez Cárdenas,M,20.0,Soacha,Talento Digital,Aliado,G05,2,2026-05-11,felipe1347@gmail.com,3468120683
+KP-00264,1076865169,Jhon Pineda Ortiz,F,18.0,Cali,Ruta Empleo Joven,Referido,G02,2,2026-05-11,jhon6638@outlook.com,3285237584
+KP-00455,1027886023,Yuli Rodríguez Castro,M,29.0,Bogotá,Talento Digital,Aliado,G04,2,2026-05-11,yuli4349@gmail.com,3092641051
+KP-00080,1064965008,Santiago Moreno Ortiz,F,27.0,Bogotá,Ruta Empleo Joven,Referido,G06,2,2026-05-12,santiago6839@outlook.com,3777853806
+KP-00545,1078159910,María Moreno Gómez,F,21.0,Cali,Talento Digital,Redes sociales,G06,2,2026-05-12,maria263@gmail.com,3229228127
+KP-00550,1048559345,Camila Moreno Moreno,F,18.0,Soacha,Talento Digital,Referido,G01,2,2026-05-13,camila3431@@gmail.com,3833220278
+KP-00477,1097119560,María Quintero Díaz,M,23.0,Barranquilla,Talento Digital,Referido,G02,4,2026-05-15,maria5676@gmail.com,3085130597
+KP-00604,1069364291,Natalia Ramírez Muñoz,F,22.0,Bogotá,Impulsa Mujer,Referido,G02,2,2026-05-17,natalia6351@gmail.com,3169996351
+KP-00045,1014897913,Óscar Pineda Ramírez,F,28.0,Bogotá,Ruta Empleo Joven,Aliado,G05,2,2026-05-17,oscar4612@gmail.com,3881975118
+KP-00088,1058741489,Steven Hernández Gómez,M,22.0,Barranquilla,Ruta Empleo Joven,Unidad móvil,G04,2,2026-05-17,steven364@outlook.com,3529555794
+KP-00307,1091089790,Sebastián Muñoz Rojas,M,18.0,Medellín,Talento Digital,Aliado,G06,3,2026-05-17,sebastian2378@hotmail.com,3133056155
+KP-00118,1005067655,Santiago López López,F,29.0,Bogotá,Ruta Empleo Joven,Aliado,G01,3,2026-05-17,santiago4226@hotmail.com,3482119661
+KP-00186,1098908556,María Rojas López,F,25.0,Medellín,Ruta Empleo Joven,Aliado,G06,1,2026-05-17,maria1119@gmail.com,3492581940
+KP-00537,1020481601,Angie Rodríguez Moreno,M,,Bogotá,Talento Digital,Referido,G04,2,2026-05-18,angie2640@outlook.com,3307882231
+KP-00570,1078396523,Valentina Gómez Hernández,F,21.0,Medellín,Impulsa Mujer,Unidad móvil,G01,2,2026-05-18,valentina3540@outlook.com,3332337472
+KP-00414,1004407808,Valentina Ortiz Cárdenas,F,21.0,Barranquilla,Talento Digital,Redes sociales,G06,2,2026-05-18,valentina3532@gmail.com,3510104037
+KP-00486,1037436721,Brayan Torres Torres,F,27.0,Bogotá,Talento Digital,Unidad móvil,G06,2,2026-05-18,brayan1970@gmail.com,3537893938
+KP-00430,1029165000,Yuli Ortiz Castro,F,27.0,Bogotá,Talento Digital,Unidad móvil,G06,3,2026-05-19,yuli2497@hotmail.com,3823928359
+KP-00564,1085949938,Kevin Muñoz Muñoz,F,18.0,Soacha,Impulsa Mujer,Referido,G06,2,2026-05-19,kevin3082@hotmail.com,3173835038
+KP-00485,1057811335,Natalia Moreno Cárdenas,M,20.0,Bogotá,Talento Digital,Redes sociales,G05,2,2026-05-19,natalia8307@hotmail.com,3960335897
+KP-00592,1009141673,Felipe Gómez Suárez,F,21.0,Bogotá,Impulsa Mujer,Referido,G06,2,2026-05-19,felipe9986@outlook.com,3973606179
+KP-00701,1074640827,Jhon Rojas Díaz,F,32.0,Soacha,Impulsa Mujer,Redes sociales,G05,2,2026-05-19,jhon2719@gmail.com,3662605925
+KP-00503,1019473057,María Cárdenas Muñoz,F,27.0,Bogotá,Talento Digital,Aliado,G04,3,2026-05-20,maria6871@gmail.com,3715334685
+KP-00465,1087286579,Santiago Suárez Rodríguez,F,,Barranquilla,Talento Digital,Referido,G05,3,2026-05-20,santiago1216@gmail.com,3912832340
+KP-00683,1083598881,Daniela Muñoz Ortiz,F,32.0,Bogotá,Impulsa Mujer,Redes sociales,G01,2,2026-05-20,daniela356@hotmail.com,3231230526
+KP-00513,1050432818,Luisa Rodríguez Rodríguez,M,18.0,Bogotá,Talento Digital,Aliado,G02,3,2026-05-20,luisa6514@hotmail.com,3990085414
+KP-00694,1051701344,Yuli Suárez Vargas,F,,Medellín,Impulsa Mujer,Redes sociales,G01,1,2026-05-20,yuli9528@hotmail.com,3334770687
+KP-00259,1041582502,Yuli Torres Martínez,M,31.0,Bogotá,Ruta Empleo Joven,Redes sociales,G03,1,2026-05-20,yuli7623@outlook.com,3058273006
+KP-00395,1083511334,Felipe Suárez Cárdenas,F,18.0,Medellín,Talento Digital,Redes sociales,G05,1,2026-05-21,felipe7977@outlook.com,3028230240
+KP-00688,1018096402,Natalia Castro Rodríguez,F,28.0,Medellín,Impulsa Mujer,Redes sociales,G02,1,2026-05-21,natalia9484@hotmail.com,3590108074
+KP-00083,1011574696,Yuli Cárdenas Ortiz,M,28.0,Soacha,Ruta Empleo Joven,Unidad móvil,G05,1,2026-05-21,yuli1997@gmail.com,3040539356
+KP-00488,1089958173,Valentina Ramírez Castro,F,27.0,Barranquilla,Talento Digital,Referido,G02,4,2026-05-22,valentina8403@hotmail.com,3479139828
+KP-00649,1070805784,Daniela Gómez Ramírez,F,18.0,Cali,Impulsa Mujer,Redes sociales,G05,3,2026-05-22,daniela1721@gmail.com,3164134723
+KP-00121,1036271341,Jhon Ramírez Vargas,M,22.0,Cali,Ruta Empleo Joven,Aliado,G04,1,2026-05-23,jhon5253@gmail.com,3774313175
+KP-00162,1035319963,Óscar Muñoz Gómez,M,21.0,Soacha,Ruta Empleo Joven,Redes sociales,G04,1,2026-05-24,oscar3351@gmail.com,3955139257
+KP-00504,1011509639,Jhon Rojas Quintero,F,25.0,Medellín,Talento Digital,Redes sociales,G01,3,2026-05-24,jhon9209@outlook.com,3589488936
+KP-00582,1085456973,Diego Ortiz Cárdenas,F,24.0,Cali,Impulsa Mujer,Redes sociales,G04,2,2026-05-25,diego1328@gmail.com,3389420439
+KP-00618,1070637195,Juan Díaz Díaz,F,23.0,Bogotá,Impulsa Mujer,Redes sociales,G04,2,2026-05-27,juan7611@gmail.com,3049969424
+KP-00478,1044177137,Daniela Rojas Moreno,M,23.0,Bogotá,Talento Digital,Redes sociales,G04,1,2026-05-27,daniela56@gmail.com,3077557519
+KP-00330,1075079859,Karen Quintero Díaz,F,29.0,Bogotá,Talento Digital,Unidad móvil,G06,3,2026-05-27,karen5493@hotmail.com,3912429042
+KP-00555,1070258119,Valentina Rodríguez Gómez,F,28.0,Cali,Impulsa Mujer,Aliado,G02,2,2026-05-27,valentina2831@hotmail.com,3166523621
+KP-00606,1050726842,Laura Muñoz Ramírez,F,18.0,Cali,Impulsa Mujer,Aliado,G01,3,2026-05-28,laura5001gmail.com,3735978207
+KP-00678,1023746938,Paula Gómez Castro,F,23.0,Soacha,Impulsa Mujer,Aliado,G06,3,2026-05-28,paula6519@outlook.com,3890255626
+KP-00292,1061551669,Santiago Quintero Moreno,M,19.0,Barranquilla,Ruta Empleo Joven,Redes sociales,G05,2,2026-05-28,santiago6257@outlook.com,3580455102
+KP-00135,1013804663,Felipe Rodríguez Díaz,F,30.0,Cali,Ruta Empleo Joven,Redes sociales,G03,2,2026-05-28,felipe4126@hotmail.com,3723950830
+KP-00515,1006193120,Natalia López Vargas,F,30.0,Cali,Talento Digital,Aliado,G02,1,2026-05-29,natalia3196@hotmail.com,3632978529
+KP-00046,1070767789,Luisa Gómez Martínez,F,35.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G03,1,2026-05-29,luisa5728@outlook.com,3300994660
+KP-00150,1097028191,Karen Rodríguez Suárez,F,21.0,Soacha,Ruta Empleo Joven,Redes sociales,G06,2,2026-05-29,karen7130@outlook.com,3979033609
+KP-00166,1043316902,Brayan Martínez Vargas,F,26.0,Bogotá,Ruta Empleo Joven,Aliado,G01,1,2026-05-30,brayan5952@outlook.com,3318978029
+KP-00191,1089589600,Juan Moreno Castro,M,23.0,Cali,Ruta Empleo Joven,Unidad móvil,G06,2,2026-05-30,juan8829@hotmail.com,3186441747
+KP-00358,1001495251,Juan Martínez Ramírez,NB,34.0,Medellín,Talento Digital,Unidad móvil,G06,1,2026-05-30,juan4902@hotmail.com,3355831474
+KP-00302,1075441940,Karen Cárdenas Suárez,F,18.0,Bogotá,Talento Digital,Unidad móvil,G04,1,2026-05-30,karen3896@outlook.com,3066820159
+KP-00600,1052936544,María Quintero Martínez,F,18.0,Bogotá,Impulsa Mujer,Redes sociales,G04,1,2026-05-30,maria4020@outlook.com,3339279212
+KP-00297,1078784459,Paula Ortiz Díaz,F,18.0,Soacha,Ruta Empleo Joven,Redes sociales,G04,2,2026-05-31,paula2210@outlook.com,3691133887
+KP-00578,1019451587,Brayan Hernández Díaz,F,26.0,Cali,Impulsa Mujer,Aliado,G02,2,2026-05-31,brayan6583@hotmail.com,3050547026
+KP-00043,1089993879,Angie Moreno Cárdenas,F,24.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G02,1,2026-05-31,angie3280@outlook.com,3230112737
+KP-00098,1017805372,Yuli Rojas Moreno,M,35.0,Medellín,Ruta Empleo Joven,Referido,G01,2,2026-06-01,yuli9277@outlook.com,3129559627
+KP-00076,1061834943,Cristian Hernández Suárez,M,20.0,Medellín,Ruta Empleo Joven,Aliado,G04,2,2026-06-01,cristian7495@gmail.com,3295788750
+KP-00411,1027254284,Juan Quintero Pineda,F,24.0,Bogotá,Talento Digital,Redes sociales,G04,3,2026-06-01,juan4780@hotmail.com,3021498768
+KP-00594,1048738056,María Quintero Rojas,F,18.0,Bogotá,Impulsa Mujer,Unidad móvil,G02,2,2026-06-01,maria9883@hotmail.com,3814204552
+KP-00482,1047344643,Steven Vargas Ramírez,M,23.0,Soacha,Talento Digital,Unidad móvil,G02,3,2026-06-01,steven3135@hotmail.com,3571253938
+KP-00343,1092024171,Sebastián Cárdenas Ramírez,F,18.0,Bogotá,Talento Digital,Redes sociales,G03,2,2026-06-01,sebastian2101@outlook.com,3778768232
+KP-00438,1013373269,Natalia Pineda Ortiz,F,18.0,Barranquilla,Talento Digital,Redes sociales,G03,2,2026-06-02,natalia89@hotmail.com,3451391626
+KP-00674,1075601914,Natalia Rodríguez Moreno,F,27.0,Medellín,Impulsa Mujer,Aliado,G01,4,2026-06-02,natalia3912@outlook.com,3171353338
+KP-00014,1017246139,Kevin Ortiz Ramírez,M,26.0,Soacha,Ruta Empleo Joven,Aliado,G02,4,2026-06-02,kevin798@gmail.com,3291427762
+KP-00345,1073872738,Felipe Quintero López,M,,Medellín,Talento Digital,Redes sociales,G05,2,2026-06-02,felipe2847@outlook.com,3530524879
+KP-00407,1033196251,Steven Cárdenas Rojas,F,19.0,Medellín,Talento Digital,Unidad móvil,G06,2,2026-06-02,steven2746@gmail.com,3292245514
+KP-00159,1078377143,Natalia Torres Gómez,M,23.0,Cali,Ruta Empleo Joven,Aliado,G01,2,2026-06-02,natalia9420@hotmail.com,3451655717
+KP-00037,1086216848,Luisa Muñoz Cárdenas,M,20.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G06,2,2026-06-02,luisa6921@outlook.com,3163483861
+KP-00062,1036450773,Laura Muñoz Cárdenas,F,21.0,Bogotá,Ruta Empleo Joven,Redes sociales,G04,2,2026-06-03,laura738@outlook.com,3108518328
+KP-00706,1086607630,Santiago Muñoz Ramírez,F,19.0,Cali,Impulsa Mujer,Aliado,G03,1,2026-06-03,santiago1116@hotmail.com,3736851743
+KP-00094,1080572038,Camila López Moreno,M,20.0,Barranquilla,Ruta Empleo Joven,Redes sociales,G05,2,2026-06-03,camila8722@hotmail.com,3985706078
+KP-00457,1045839382,Sebastián López Martínez,M,28.0,Bogotá,Talento Digital,Unidad móvil,G05,1,2026-06-03,sebastian6254@outlook.com,3495331411
+KP-00665,1029571794,Felipe Suárez Rodríguez,F,25.0,Medellín,Impulsa Mujer,Unidad móvil,G01,4,2026-06-03,felipe8179@hotmail.com,3807523063
+KP-00389,1006566422,Yuli Díaz Gómez,M,22.0,Soacha,Talento Digital,Aliado,G05,2,2026-06-04,yuli6224@outlook.com,3888333717
+KP-00676,1076601962,Sebastián Díaz Suárez,F,30.0,Cali,Impulsa Mujer,Aliado,G04,1,2026-06-04,sebastian7003@gmail.com,3167258515
+KP-00610,1047317650,Natalia Hernández Muñoz,F,18.0,Bogotá,Impulsa Mujer,Unidad móvil,G05,3,2026-06-04,natalia9662@hotmail.com,3358142873
+KP-00023,1010098079,Yuli Gómez Díaz,F,24.0,Bogotá,Ruta Empleo Joven,Redes sociales,G01,2,2026-06-05,yuli3238@gmail.com,3504809671
+KP-00273,1000915454,Camila Moreno Castro,M,26.0,Bogotá,Ruta Empleo Joven,Redes sociales,G03,1,2026-06-05,camila1460@hotmail.com,3988696318
+KP-00453,1050186856,Andrés Vargas Quintero,F,18.0,Soacha,Talento Digital,Redes sociales,G05,2,2026-06-05,andres9205@gmail.com,3628932185
+KP-00260,1092788113,Jhon Pineda Torres,F,25.0,Medellín,Ruta Empleo Joven,Redes sociales,G06,3,2026-06-06,jhon1230@gmail.com,3885712901
+KP-00421,1062920200,Brayan Hernández Gómez,F,25.0,Medellín,Talento Digital,Unidad móvil,G02,3,2026-06-06,brayan9310@outlook.com,3951047755
+KP-00456,1089436285,Camila López Pineda,M,31.0,Soacha,Talento Digital,Redes sociales,G05,1,2026-06-06,camila659@hotmail.com,3289318451
+KP-00362,1045705885,Camila Suárez Gómez,F,28.0,Cali,Talento Digital,Unidad móvil,G06,1,2026-06-06,camila6297@outlook.com,3992055990
+KP-00637,1017896421,Juan Rodríguez Rodríguez,F,26.0,Cali,Impulsa Mujer,Unidad móvil,G04,2,2026-06-06,juan8637@gmail.com,3233751410
+KP-00385,1045761702,Paula Quintero Castro,M,29.0,Cali,Talento Digital,Unidad móvil,G03,1,2026-06-06,paula365@hotmail.com,3809578393
+KP-00481,1070068116,Valentina Díaz Ortiz,F,24.0,Bogotá,Talento Digital,Unidad móvil,G04,2,2026-06-06,valentina3593@gmail.com,3403764549
+KP-00243,1009750422,Cristian Rodríguez Rodríguez,M,23.0,Barranquilla,Ruta Empleo Joven,Redes sociales,G03,2,2026-06-06,cristian5011@gmail.com,3776697378
+KP-00115,1096508247,Jhon Rojas Gómez,M,31.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G05,1,2026-06-06,jhon5198@outlook.com,3641055429
+KP-00133,1088956208,Óscar Rojas Rodríguez,M,26.0,Medellín,Ruta Empleo Joven,Redes sociales,G01,1,2026-06-07,oscar1142@outlook.com,3854989120
+KP-00707,1045767717,Santiago Gómez Cárdenas,F,24.0,Bogotá,Impulsa Mujer,Unidad móvil,G06,2,2026-06-08,santiago5754@@outlook.com,3236835887
+KP-00139,1041363595,Paula Torres Vargas,,19.0,Bogotá,Ruta Empleo Joven,Redes sociales,G01,3,2026-06-08,paula9124@hotmail.com,3538803967
+KP-00371,1068161787,Sara Castro Suárez,M,27.0,Bogotá,Talento Digital,Redes sociales,G01,3,2026-06-08,sara4449@outlook.com,3674022950
+KP-00113,1095559961,Kevin Rojas Castro,F,26.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G05,4,2026-06-09,kevin7494@outlook.com,3291875393
+KP-00323,1040677440,Angie Cárdenas Rodríguez,F,21.0,Soacha,Talento Digital,Referido,G01,2,2026-06-09,angie4305@outlook.com,3160001175
+KP-00272,1057340469,Jhon Gómez Quintero,F,32.0,Bogotá,Ruta Empleo Joven,Redes sociales,G05,4,2026-06-09,jhon2349@hotmail.com,3404425750
+KP-00298,1034927129,Natalia Díaz Muñoz,F,20.0,Bogotá,Ruta Empleo Joven,Referido,G05,1,2026-06-09,natalia9702@hotmail.com,3390020982
+KP-00551,1080981842,Natalia Gómez Hernández,F,25.0,Bogotá,Impulsa Mujer,Aliado,G02,1,2026-06-10,natalia4986@outlook.com,3813930577
+KP-00354,1056590303,Laura Rojas Hernández,F,25.0,Bogotá,Talento Digital,Referido,G04,4,2026-06-10,laura734@hotmail.com,3296084292
+KP-00552,1088197593,Natalia Martínez Vargas,F,18.0,Soacha,Impulsa Mujer,Unidad móvil,G04,1,2026-06-10,natalia4149@hotmail.com,3496891198
+KP-00427,1033605715,Sebastián Muñoz Hernández,F,18.0,Bogotá,Talento Digital,Aliado,G05,1,2026-06-10,sebastian9923@gmail.com,3077003584
+KP-00075,1083809528,Yuli Ramírez Hernández,M,24.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G01,2,2026-06-10,yuli4677@gmail.com,3209710116
+KP-00174,1079299345,Sebastián Vargas Ortiz,M,19.0,Barranquilla,Ruta Empleo Joven,Unidad móvil,G04,2,2026-06-10,sebastian909@hotmail.com,3389646776
+KP-00204,1058723829,Angie López Moreno,M,25.0,Bogotá,Ruta Empleo Joven,Aliado,G01,3,2026-06-12,angie5718@outlook.com,3509606318
+KP-00709,1097304319,Diego Ramírez Muñoz,,20.0,Bogotá,Impulsa Mujer,Redes sociales,G06,3,2026-06-12,diego4803@gmail.com,3110708892
+KP-00650,1083851801,Santiago Vargas Gómez,F,22.0,Soacha,Impulsa Mujer,Aliado,G04,2,2026-06-12,santiago4450@outlook.com,3204165748
+KP-00317,1024658271,Brayan Martínez Moreno,F,18.0,Barranquilla,Talento Digital,Referido,G03,1,2026-06-13,brayan894@gmail.com,
+KP-00568,1023084075,Juan Castro Suárez,F,30.0,Medellín,Impulsa Mujer,Unidad móvil,G06,1,2026-06-13,juan2531@outlook.com,3270086974
+KP-00104,1037478364,Sebastián Gómez Castro,F,22.0,Bogotá,Ruta Empleo Joven,Redes sociales,G06,1,2026-06-13,sebastian2336@gmail.com,3451498061
+KP-00003,1044838054,Diego Quintero Pineda,M,26.0,Soacha,Ruta Empleo Joven,Aliado,G01,1,2026-06-13,diego6715@hotmail.com,3908874549
+KP-00629,1020320949,Luisa Rodríguez Gómez,F,24.0,Medellín,Impulsa Mujer,Redes sociales,G03,3,2026-06-13,luisa6600@hotmail.com,3727657864
+KP-00178,1045348153,Santiago Rojas Pineda,F,26.0,Soacha,Ruta Empleo Joven,Redes sociales,G05,1,2026-06-13,santiago7373@gmail.com,3130777130
+KP-00056,1058383511,Camila Castro Muñoz,M,23.0,Cali,Ruta Empleo Joven,Aliado,G06,1,2026-06-13,camila4534@outlook.com,3175591447
+KP-00417,1084306069,Jhon Hernández Pineda,F,28.0,Soacha,Talento Digital,Unidad móvil,G06,3,2026-06-13,jhon6118@hotmail.com,3556592115
+KP-00391,1003528349,Natalia Vargas Díaz,F,18.0,Soacha,Talento Digital,Redes sociales,G05,1,2026-06-13,natalia2033@outlook.com,3432523538
+KP-00671,1011634970,María Martínez Hernández,F,25.0,Bogotá,Impulsa Mujer,Redes sociales,G01,3,2026-06-14,maria9291@hotmail.com,3233280307
+KP-00244,1019213091,María Castro Hernández,M,31.0,Soacha,Ruta Empleo Joven,Unidad móvil,G02,2,2026-06-14,maria8320@hotmail.com,3350566553
+KP-00316,1016631685,Santiago Muñoz Moreno,F,27.0,Barranquilla,Talento Digital,Referido,G02,3,2026-06-14,santiago4653@outlook.com,3934711397
+KP-00005,1029999150,Karen Ortiz Díaz,F,18.0,Soacha,Ruta Empleo Joven,Unidad móvil,G06,3,2026-06-14,karen8304@gmail.com,3784255276
+KP-00369,1047413191,Santiago López Quintero,M,25.0,Barranquilla,Talento Digital,Redes sociales,G05,2,2026-06-15,santiago1459@gmail.com,3883831397
+KP-00276,1072809411,Luisa Moreno Vargas,M,24.0,Bogotá,Ruta Empleo Joven,Aliado,G02,4,2026-06-15,luisa2392@gmail.com,3144766752
+KP-00181,1083496951,Paula Hernández Torres,M,20.0,Soacha,Ruta Empleo Joven,Redes sociales,G01,3,2026-06-15,paula8875@gmail.com,3214629505
+KP-00386,1011551075,Jhon Díaz Quintero,NB,25.0,Bogotá,Talento Digital,Referido,G03,2,2026-06-15,jhon1079@outlook.com,3153780385
+KP-00563,1072176657,Andrés Torres Rodríguez,F,32.0,Cali,Impulsa Mujer,Redes sociales,G01,2,2026-06-15,andres9871@gmail.com,3075729824
+KP-00274,1072670864,Óscar Vargas Suárez,F,25.0,Cali,Ruta Empleo Joven,Unidad móvil,G06,2,2026-06-16,oscar7362@hotmail.com,3577466125
+KP-00140,1024184979,Brayan Ortiz Ortiz,F,19.0,Barranquilla,Ruta Empleo Joven,Redes sociales,G04,2,2026-06-16,brayan7011@hotmail.com,3025559476
+KP-00313,1036764456,Juan López Pineda,M,20.0,Cali,Talento Digital,Redes sociales,G01,2,2026-06-16,juan662@outlook.com,3070124528
+KP-00639,1085644381,Valentina Cárdenas Martínez,F,32.0,Cali,Impulsa Mujer,Aliado,G01,1,2026-06-17,valentina7123@outlook.com,3138465892
+KP-00311,1075173641,Daniela Martínez Quintero,F,27.0,Cali,Talento Digital,Referido,G05,2,2026-06-17,daniela7915@hotmail.com,3948634346
+KP-00697,1089405647,Steven Muñoz Hernández,F,22.0,Medellín,Impulsa Mujer,Aliado,G04,3,2026-06-18,steven7349@outlook.com,3880697251
+KP-00214,1071427854,Juan Gómez Moreno,F,18.0,Bogotá,Ruta Empleo Joven,Aliado,G04,2,2026-06-18,juan1675@hotmail.com,3661013101
+KP-00444,1083837096,Felipe Gómez Vargas,M,29.0,Bogotá,Talento Digital,Unidad móvil,G02,3,2026-06-19,felipe324@hotmail.com,3747903301
+KP-00675,1034160297,Óscar Ortiz Martínez,F,25.0,Bogotá,Impulsa Mujer,Redes sociales,G02,3,2026-06-19,oscar9335@outlook.com,3168677278
+KP-00029,1007962933,María Quintero Suárez,F,27.0,Medellín,Ruta Empleo Joven,Referido,G03,1,2026-06-19,maria5385@gmail.com,3459048544
+KP-00163,1068183624,Santiago Rojas Quintero,F,27.0,Cali,Ruta Empleo Joven,Aliado,G05,2,2026-06-19,santiago1741@outlook.com,
+KP-00392,1055661000,Steven Suárez Vargas,F,21.0,Barranquilla,Talento Digital,Referido,G02,2,2026-06-20,steven5295@outlook.com,3078667795
+KP-00157,1056774012,Kevin Castro Quintero,F,22.0,Cali,Ruta Empleo Joven,Redes sociales,G02,1,2026-06-20,kevin9895@gmail.com,3244286766
+KP-00215,1028374205,Jhon Rodríguez Hernández,M,18.0,Medellín,Ruta Empleo Joven,Aliado,G01,2,2026-06-20,jhon9881@hotmail.com,3673218233
+KP-00296,1004752039,Kevin Cárdenas Díaz,F,34.0,Soacha,Ruta Empleo Joven,Redes sociales,G06,2,2026-06-20,kevin2162@outlook.com,3108874905
+KP-00419,1013788829,Sara Quintero Muñoz,M,21.0,Bogotá,Talento Digital,Aliado,G06,2,2026-06-21,sara3639@gmail.com,3221377347
+KP-00539,1045429560,Natalia Muñoz Muñoz,M,19.0,Bogotá,Talento Digital,Unidad móvil,G02,1,2026-06-21,natalia1672@outlook.com,3869440889
+KP-00223,1024654175,Daniela Vargas Moreno,F,18.0,Bogotá,Ruta Empleo Joven,Aliado,G06,2,2026-06-21,daniela9760@gmail.com,3083154159
+KP-00645,1046205636,Angie Pineda Quintero,F,23.0,Bogotá,Impulsa Mujer,Unidad móvil,G02,1,2026-06-21,angie2512@outlook.com,3407169317
+KP-00206,1008804538,Luisa Muñoz Moreno,F,24.0,Bogotá,Ruta Empleo Joven,Redes sociales,G04,2,2026-06-21,luisa2702@gmail.com,3743393165
+KP-00033,1041628476,Kevin Moreno Gómez,F,,Soacha,Ruta Empleo Joven,Redes sociales,G03,3,2026-06-21,kevin9564@outlook.com,3327037130
+KP-00079,1054391465,Kevin Hernández Vargas,F,18.0,Barranquilla,Ruta Empleo Joven,Redes sociales,G05,2,2026-06-21,kevin1119@hotmail.com,3074851525
+KP-00241,1063927063,Camila Quintero Ramírez,M,18.0,Barranquilla,Ruta Empleo Joven,Redes sociales,G05,2,2026-06-21,camila7775@hotmail.com,3000910341
+KP-00431,1008304220,Jhon Moreno Torres,F,28.0,Cali,Talento Digital,Redes sociales,G03,3,2026-06-22,jhon7059@gmail.com,3497554828
+KP-00230,1058781229,Brayan Hernández Martínez,F,32.0,Cali,Ruta Empleo Joven,Redes sociales,G03,3,2026-06-22,brayan9291@hotmail.com,3097481963
+KP-00672,1044357044,Diego Cárdenas Castro,F,25.0,Bogotá,Impulsa Mujer,Referido,G03,2,2026-06-22,diego1960@outlook.com,3000516431
+KP-00337,1002002953,Santiago Díaz Hernández,M,28.0,Cali,Talento Digital,Aliado,G06,1,2026-06-23,,3323505375
+KP-00304,1026921218,Felipe Torres Suárez,NB,18.0,Bogotá,Talento Digital,Redes sociales,G06,2,2026-06-23,felipe2453@hotmail.com,3766587112
+KP-00111,1015404707,Kevin Vargas Rodríguez,M,18.0,Medellín,Ruta Empleo Joven,Aliado,G05,3,2026-06-23,kevin3165@gmail.com,3703442829
+KP-00581,1072519751,Yuli Martínez Ramírez,F,18.0,Bogotá,Impulsa Mujer,Unidad móvil,G06,3,2026-06-24,yuli964@gmail.com,3021937387
+KP-00446,1077273646,Diego Gómez Castro,F,19.0,Medellín,Talento Digital,Referido,G04,2,2026-06-25,diego3070@outlook.com,3857770023
+KP-00651,1012833107,Santiago López Vargas,F,18.0,Bogotá,Impulsa Mujer,Aliado,G02,3,2026-06-25,santiago5457@gmail.com,3798240434
+KP-00189,1041334925,Angie Moreno Díaz,M,33.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G02,3,2026-06-26,angie9033@outlook.com,3421409991
+KP-00339,1014087098,Paula Suárez Moreno,M,18.0,Bogotá,Talento Digital,Unidad móvil,G02,3,2026-06-26,paula5922@hotmail.com,3305041378
+KP-00149,1062597393,Steven Torres Castro,F,,Barranquilla,Ruta Empleo Joven,Redes sociales,G05,3,2026-06-26,steven9295@gmail.com,3168073400
+KP-00467,1032958174,Felipe Ortiz Ramírez,F,23.0,Bogotá,Talento Digital,Unidad móvil,G06,2,2026-06-27,felipe7275@hotmail.com,3490123129
+KP-00522,1021745996,Natalia Ramírez Torres,M,26.0,Bogotá,Talento Digital,Unidad móvil,G05,1,2026-06-27,natalia5284@outlook.com,3014295858
+KP-00500,1040181154,Steven Gómez Gómez,M,24.0,Bogotá,Talento Digital,Unidad móvil,G04,2,2026-06-27,steven8801@gmail.com,3463950884
+KP-00601,1039403268,Camila Moreno López,F,25.0,Bogotá,Impulsa Mujer,Redes sociales,G01,2,2026-06-27,camila924@outlook.com,3871101617
+KP-00334,1030079414,Sebastián Rodríguez Gómez,F,18.0,Bogotá,Talento Digital,Referido,G02,1,2026-06-29,sebastian1924@gmail.com,3222339905
+KP-00077,1026650062,María Pineda Quintero,F,25.0,Bogotá,Ruta Empleo Joven,Aliado,G06,1,2026-06-30,maria4871@gmail.com,3423061924
+KP-00019,1035506101,Juan Pineda Muñoz,F,18.0,Medellín,Ruta Empleo Joven,Aliado,G06,1,2026-06-30,juan3178@outlook.com,3457278272
+KP-00634,1021486491,Felipe Castro Suárez,F,25.0,Soacha,Impulsa Mujer,Unidad móvil,G04,1,2026-06-30,felipe6794@outlook.com,3596565747
+KP-00512,1072461058,Angie Gómez Pineda,F,31.0,Soacha,Talento Digital,Unidad móvil,G04,2,2026-07-01,angie5634@hotmail.com,3505847157
+KP-00336,1027866732,Valentina Ortiz Hernández,M,24.0,Barranquilla,Talento Digital,Unidad móvil,G06,1,2026-07-01,valentina4948@gmail.com,3231282242
+KP-00158,1070112673,Kevin Vargas Ramírez,M,25.0,Bogotá,Ruta Empleo Joven,Aliado,G04,1,2026-07-01,kevin2809@hotmail.com,3658089403
+KP-00122,1099918078,Jhon Suárez Suárez,F,18.0,Soacha,Ruta Empleo Joven,Redes sociales,G01,3,2026-07-02,jhon2311@outlook.com,3820577461
+KP-00529,1020322814,María Rojas Díaz,F,18.0,Medellín,Talento Digital,Aliado,G06,2,2026-07-02,maria2332@gmail.com,
+KP-00183,1017552914,Brayan Pineda Suárez,F,21.0,Bogotá,Ruta Empleo Joven,Redes sociales,G01,1,2026-07-02,brayan1534@hotmail.com,3902291200
+KP-00384,1039978073,Óscar Rodríguez Muñoz,F,22.0,Soacha,Talento Digital,Referido,G01,1,2026-07-02,oscar1953@hotmail.com,3003163006
+KP-00492,1052830487,Camila Moreno Ortiz,F,25.0,Medellín,Talento Digital,Aliado,G06,3,2026-07-03,camila8788@hotmail.com,3550031391
+KP-00495,1018596374,Cristian Pineda Martínez,M,20.0,Bogotá,Talento Digital,Referido,G02,4,2026-07-03,cristian2927@hotmail.com,3551903980
+KP-00093,1002123757,Karen Moreno Quintero,F,22.0,Cali,Ruta Empleo Joven,Unidad móvil,G02,2,2026-07-03,karen4130@gmail.com,3051279334
+KP-00148,1004813983,Sara López Gómez,M,19.0,Soacha,Ruta Empleo Joven,Redes sociales,G03,2,2026-07-03,sara6578@outlook.com,3662163912
+KP-00636,1038626790,Valentina Torres Vargas,F,27.0,Bogotá,Impulsa Mujer,Unidad móvil,G05,2,2026-07-04,valentina823@gmail.com,3731546529
+KP-00280,1057568083,Diego Rodríguez Quintero,F,18.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G01,1,2026-07-04,diego8199@outlook.com,3033883121
+KP-00402,1050904712,Jhon Díaz Rojas,F,26.0,Bogotá,Talento Digital,Unidad móvil,G06,2,2026-07-04,jhon9970@outlook.com,3176936684
+KP-00242,1029368401,Óscar Ramírez Ramírez,M,25.0,Bogotá,Ruta Empleo Joven,Redes sociales,G05,2,2026-07-04,oscar1001@hotmail.com,3549762524
+KP-00309,1046178014,Brayan Muñoz Hernández,F,23.0,Bogotá,Talento Digital,Redes sociales,G05,3,2026-07-04,brayan6616@outlook.com,3687132908
+KP-00097,1007932691,Óscar Hernández López,F,23.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G04,4,2026-07-05,oscar9752@outlook.com,3258933703
+KP-00132,1038259043,María Rojas Muñoz,M,,Medellín,Ruta Empleo Joven,Redes sociales,G06,1,2026-07-05,maria6444@gmail.com,3666839231
+KP-00073,1082680797,Sara Gómez Ramírez,F,20.0,Cali,Ruta Empleo Joven,Redes sociales,G06,1,2026-07-05,sara3074@hotmail.com,3582833778
+KP-00310,1074372278,Yuli López Vargas,M,24.0,Barranquilla,Talento Digital,Redes sociales,G01,1,2026-07-05,yuli1286@outlook.com,3928333202
+KP-00042,1073730541,Jhon Cárdenas Martínez,F,28.0,Barranquilla,Ruta Empleo Joven,Aliado,G04,1,2026-07-06,jhon2932@outlook.com,3321458609
+KP-00558,1035921078,Laura Cárdenas Rodríguez,F,24.0,Bogotá,Impulsa Mujer,Redes sociales,G06,2,2026-07-06,laura3302@gmail.com,3460279829
+KP-00544,1084385026,Karen Rojas Díaz,F,18.0,Medellín,Talento Digital,Referido,G06,3,2026-07-06,karen1748@hotmail.com,3225380929
+KP-00473,1015439395,Laura López Torres,F,19.0,Medellín,Talento Digital,Aliado,G05,2,2026-07-06,laura4400@outlook.com,3100437705
+KP-00466,1046275779,Valentina Ortiz Pineda,M,22.0,Barranquilla,Talento Digital,Aliado,G03,1,2026-07-06,valentina2470@gmail.com,3431211945
+KP-00012,1027033137,Óscar Rojas Martínez,M,35.0,Medellín,Ruta Empleo Joven,Redes sociales,G01,1,2026-07-06,oscar5207@gmail.com,3310138113
+KP-00324,1087770338,Kevin Martínez Hernández,M,23.0,Cali,Talento Digital,Redes sociales,G02,1,2026-07-07,kevin1830@gmail.com,3445678869
+KP-00632,1015321745,Diego Rojas Torres,F,21.0,Medellín,Impulsa Mujer,Redes sociales,G06,2,2026-07-07,diego3599@gmail.com,3124994829
+KP-00168,1017496622,Camila Díaz Ramírez,F,26.0,Bogotá,Ruta Empleo Joven,Redes sociales,G03,1,2026-07-07,camila5986@outlook.com,3285938995
+KP-00107,1095121762,Luisa Rodríguez Suárez,M,22.0,Cali,Ruta Empleo Joven,Referido,G05,3,2026-07-07,luisa4426@gmail.com,3159027295
+KP-00229,1093592624,Felipe Rojas Rojas,M,28.0,Cali,Ruta Empleo Joven,Redes sociales,G01,2,2026-07-07,felipe8599@outlook.com,3223066201
+KP-00026,1069214059,Felipe Ramírez Cárdenas,F,38.0,Barranquilla,Ruta Empleo Joven,Redes sociales,G03,1,2026-07-08,felipe8221@gmail.com,3541515167
+KP-00449,1085410028,María Suárez Castro,F,19.0,Cali,Talento Digital,Redes sociales,G02,4,2026-07-08,maria2337@hotmail.com,3511680846
+KP-00054,1072819696,Diego Muñoz Castro,F,18.0,Cali,Ruta Empleo Joven,Redes sociales,G04,1,2026-07-09,diego4938@hotmail.com,3220409766
+KP-00682,1008467082,María Díaz Díaz,F,27.0,Bogotá,Impulsa Mujer,Redes sociales,G04,2,2026-07-09,maria8912@gmail.com,3050308731
+KP-00128,1020452596,María Quintero Cárdenas,M,22.0,Soacha,Ruta Empleo Joven,Redes sociales,G06,3,2026-07-09,maria8008@gmail.com,3096419834
+KP-00490,1007133135,Brayan Díaz Moreno,M,24.0,Bogotá,Talento Digital,Unidad móvil,G02,2,2026-07-10,brayan5293@outlook.com,3248962791
+KP-00002,1072796000,Yuli López Díaz,F,27.0,Medellín,Ruta Empleo Joven,Redes sociales,G06,2,2026-07-10,yuli146@outlook.com,3553093414
+KP-00652,1039319685,Santiago Gómez Vargas,F,27.0,Soacha,Impulsa Mujer,Referido,G01,3,2026-07-11,santiago3307@gmail.com,3243017217
+KP-00225,1077691774,Daniela Rodríguez Pineda,F,26.0,Bogotá,Ruta Empleo Joven,Aliado,G04,2,2026-07-11,daniela4727@hotmail.com,3817386029
+KP-00464,1014584535,Camila Moreno Quintero,M,28.0,Barranquilla,Talento Digital,Unidad móvil,G06,2,2026-07-12,camila9593@outlook.com,3831977103
+KP-00044,1074191619,Brayan López Torres,M,31.0,Cali,Ruta Empleo Joven,Aliado,G02,3,2026-07-12,brayan9443@hotmail.com,3987509354
+KP-00279,1010330055,Brayan Ortiz Suárez,NB,19.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G02,2,2026-07-12,brayan8061@outlook.com,3997560824
+KP-00698,1081157050,Andrés Díaz Pineda,F,29.0,Medellín,Impulsa Mujer,Unidad móvil,G03,1,2026-07-12,andres2910@gmail.com,3074948724
+KP-00505,1075899054,Óscar Díaz Rodríguez,F,,Soacha,Talento Digital,Aliado,G03,2,2026-07-13,oscar8444@hotmail.com,3443471624
+KP-00489,1077297825,Steven Rodríguez Quintero,M,25.0,Bogotá,Talento Digital,Redes sociales,G06,2,2026-07-14,steven2981@hotmail.com,3360955174
+KP-00071,1092957861,Angie Quintero Rodríguez,F,22.0,Cali,Ruta Empleo Joven,Unidad móvil,G03,1,2026-07-14,angie8757@hotmail.com,3989535169
+KP-00234,1066564338,Laura Ortiz Díaz,M,23.0,Medellín,Ruta Empleo Joven,Redes sociales,G02,2,2026-07-14,laura1824@gmail.com,3052772391
+KP-00099,1027891949,Karen Martínez Castro,F,27.0,Bogotá,Ruta Empleo Joven,Redes sociales,G06,2,2026-07-14,karen5351@hotmail.com,3653596740
+KP-00246,1073248841,Sara Vargas Ramírez,F,26.0,Barranquilla,Ruta Empleo Joven,Redes sociales,G05,1,2026-07-15,sara787@outlook.com,3593619716
+KP-00509,1079080957,Daniela Quintero Moreno,F,28.0,Soacha,Talento Digital,Redes sociales,G02,1,2026-07-16,daniela2153@gmail.com,3066338865
+KP-00169,1014690033,Juan Rojas Cárdenas,M,24.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G03,3,2026-07-16,juan2195@outlook.com,3635798741
+KP-00210,1011695864,Paula Díaz Ortiz,M,22.0,Barranquilla,Ruta Empleo Joven,Redes sociales,G01,4,2026-07-16,paula1145@outlook.com,
+KP-00356,1042997318,Sebastián Cárdenas Hernández,F,25.0,Bogotá,Talento Digital,Redes sociales,G04,4,2026-07-16,sebastian871@gmail.com,3968102098
+KP-00655,1084777211,Diego Moreno López,F,24.0,Soacha,Impulsa Mujer,Aliado,G03,2,2026-07-16,diego8086@hotmail.com,3043031850
+KP-00394,1021208198,Sebastián Torres Hernández,M,24.0,Barranquilla,Talento Digital,Unidad móvil,G04,1,2026-07-16,sebastian8872@outlook.com,3490431666
+KP-00491,1002592345,Felipe Rodríguez Castro,M,20.0,Bogotá,Talento Digital,Aliado,G01,1,2026-07-17,felipe3894@hotmail.com,3187866102
+KP-00231,1005888472,Steven Hernández Moreno,F,22.0,Cali,Ruta Empleo Joven,Redes sociales,G01,1,2026-07-17,steven8761@outlook.com,3055807016
+KP-00540,1002866108,Jhon Rojas Pineda,F,23.0,Medellín,Talento Digital,Redes sociales,G06,2,2026-07-17,jhon9606@outlook,3485272168
+KP-00227,1041303835,Kevin Cárdenas Martínez,F,20.0,Soacha,Ruta Empleo Joven,Redes sociales,G02,2,2026-07-17,kevin6696@hotmail.com,3985672663
+KP-00433,1049714896,Brayan Muñoz Castro,M,19.0,Soacha,Talento Digital,Referido,G03,2,2026-07-17,brayan6422@outlook.com,3089679450
+KP-00378,1026962695,Luisa Díaz Hernández,F,24.0,Soacha,Talento Digital,Redes sociales,G04,2,2026-07-18,luisa4394@hotmail.com,3407451351
+KP-00612,1059045026,Cristian Vargas Rodríguez,F,35.0,Medellín,Impulsa Mujer,Redes sociales,G04,3,2026-07-18,cristian3950@hotmail.com,3798253727
+KP-00131,1099160204,Steven Rodríguez Muñoz,M,,Barranquilla,Ruta Empleo Joven,Unidad móvil,G03,2,2026-07-18,steven8954@gmail.com,3616492616
+KP-00108,1046769515,Paula Torres Ortiz,F,21.0,Bogotá,Ruta Empleo Joven,Aliado,G02,2,2026-07-19,paula7014@gmail.com,3888339403
+KP-00532,1066775371,Santiago Martínez Ortiz,F,35.0,Bogotá,Talento Digital,Aliado,G05,2,2026-07-20,santiago4143@gmail.com,3620214747
+KP-00022,1000260986,Karen Cárdenas Muñoz,M,34.0,Medellín,Ruta Empleo Joven,Unidad móvil,G03,4,2026-07-20,karen7548@gmail.com,3510233986
+KP-00117,1068812311,Steven Rodríguez López,M,20.0,Cali,Ruta Empleo Joven,Aliado,G04,4,2026-07-20,steven6628@gmail.com,3423575527
+KP-00695,1011160898,Valentina Pineda Castro,F,20.0,Medellín,Impulsa Mujer,Aliado,G05,2,2026-07-21,valentina9466@gmail.com,3781605724
+KP-00031,1077438201,Angie Muñoz Cárdenas,F,24.0,Bogotá,Ruta Empleo Joven,Redes sociales,G01,3,2026-07-21,angie2229@outlook.com,3782318804
+KP-00052,1096068869,Sara Ramírez Quintero,F,23.0,Cali,Ruta Empleo Joven,Unidad móvil,G03,3,2026-07-21,sara9305@hotmail.com,3872286432
+KP-00496,1080828485,Felipe Rojas Castro,M,27.0,Soacha,Talento Digital,Redes sociales,G06,1,2026-07-22,felipe6113@gmail.com,3504537253
+KP-00028,1022514604,Cristian Cárdenas Quintero,M,19.0,Bogotá,Ruta Empleo Joven,Referido,G06,4,2026-07-22,cristian4481@gmail.com,3148723786
+KP-00257,1026064774,Juan Vargas Moreno,M,25.0,Bogotá,Ruta Empleo Joven,Redes sociales,G02,2,2026-07-22,juan6212@outlook.com,3088635459
+KP-00627,1094428473,Juan Torres Muñoz,F,18.0,Bogotá,Impulsa Mujer,Aliado,G05,3,2026-07-22,juan2934@hotmail.com,3911342517
+KP-00286,1082310837,Valentina Muñoz Ortiz,F,27.0,Bogotá,Ruta Empleo Joven,Aliado,G06,2,2026-07-22,valentina5836@gmail.com,3560152087
+KP-00300,1030301032,Felipe Díaz Hernández,F,21.0,Bogotá,Ruta Empleo Joven,Redes sociales,G02,3,2026-07-22,felipe4640@hotmail.com,3682435749
+KP-00085,1093775637,María López Torres,F,27.0,Bogotá,Ruta Empleo Joven,Aliado,G06,2,2026-07-23,maria719@hotmail.com,3299334718
+KP-00049,1036740841,Juan Rodríguez Quintero,F,18.0,Soacha,Ruta Empleo Joven,Redes sociales,G06,3,2026-07-23,juan2607@hotmail.com,3509284218
+KP-00460,1019024620,Steven Gómez Castro,F,28.0,Bogotá,Talento Digital,Redes sociales,G01,3,2026-07-24,steven4427@outlook.com,3127173590
+KP-00681,1090989189,Andrés Rojas Pineda,F,28.0,Bogotá,Impulsa Mujer,Referido,G03,2,2026-07-24,andres1222@outlook.com,3505438949
+KP-00095,1021339572,Juan Pineda Hernández,F,18.0,Cali,Ruta Empleo Joven,Redes sociales,G05,3,2026-07-24,juan7384@outlook.com,3256054235
+KP-00193,1089786924,Natalia Gómez Quintero,F,30.0,Cali,Ruta Empleo Joven,Unidad móvil,G04,2,2026-07-24,natalia9065@hotmail.com,3424367089
+KP-00063,1021417882,Paula Castro Ortiz,M,31.0,Bogotá,Ruta Empleo Joven,Referido,G01,2,2026-07-24,paula8404@hotmail.com,3937958808
+KP-00573,1054803656,Kevin Gómez Torres,F,33.0,Cali,Impulsa Mujer,Redes sociales,G04,2,2026-07-25,kevin9717@hotmail.com,3473872083
+KP-00483,1013080038,Santiago Ramírez Torres,M,24.0,Bogotá,Talento Digital,Referido,G04,2,2026-07-25,santiago1031@outlook.com,3594788114
+KP-00454,1090115576,Luisa López Quintero,F,25.0,Medellín,Talento Digital,Referido,G05,3,2026-07-25,luisa9158@gmail.com,3758660630
+KP-00245,1037526366,Camila Moreno Quintero,M,18.0,Bogotá,Ruta Empleo Joven,Redes sociales,G05,1,2026-07-25,camila3404@outlook.com,3035099253
+KP-00320,1055819892,Luisa Quintero Rodríguez,M,23.0,Soacha,Talento Digital,Unidad móvil,G04,4,2026-07-26,luisa2906@hotmail.com,3973205871
+KP-00422,1012432608,Camila Castro Moreno,M,25.0,Bogotá,Talento Digital,Redes sociales,G03,1,2026-07-26,camila1356@hotmail.com,3060668843
+KP-00006,1059505750,Laura Martínez López,M,19.0,Bogotá,Ruta Empleo Joven,Aliado,G03,3,2026-07-26,laura5321@outlook.com,3870156918
+KP-00219,1001278122,María Cárdenas Rojas,M,27.0,Medellín,Ruta Empleo Joven,Aliado,G06,1,2026-07-26,maria1073@hotmail.com,3702391471
+KP-00705,1008425926,Jhon Gómez Gómez,F,18.0,Barranquilla,Impulsa Mujer,Redes sociales,G06,2,2026-07-27,jhon9146@hotmail.com,3840039698
+KP-00474,1059361529,Luisa Suárez Martínez,F,25.0,Bogotá,Talento Digital,Unidad móvil,G03,2,2026-07-27,luisa6853@hotmail.com,3538015209
+KP-00203,1088413246,Laura Rodríguez Díaz,M,19.0,Bogotá,Ruta Empleo Joven,Aliado,G05,4,2026-07-27,laura9224@hotmail.com,3824079783
+KP-00090,1012870168,Steven Quintero Torres,M,36.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G02,2,2026-07-27,steven1970@hotmail.com,3075755039
+KP-00224,1072600251,Yuli Suárez Castro,F,25.0,Soacha,Ruta Empleo Joven,Redes sociales,G03,1,2026-07-27,,3402610783
+KP-00247,1072584010,Luisa Hernández Hernández,M,18.0,Barranquilla,Ruta Empleo Joven,Referido,G06,3,2026-07-27,luisa3943@hotmail.com,3827372011
+KP-00208,1025516957,Steven Torres Quintero,F,26.0,Bogotá,Ruta Empleo Joven,Redes sociales,G01,2,2026-07-27,steven1364@outlook.com,3929839012
+KP-00617,1004399110,Luisa Quintero Rodríguez,F,30.0,Bogotá,Impulsa Mujer,Redes sociales,G04,2,2026-07-27,luisa3461@gmail.com,3782398216
+KP-00528,1026776198,Daniela Quintero Cárdenas,F,18.0,Bogotá,Talento Digital,Referido,G05,3,2026-07-28,daniela4683@gmail.com,3743129530
+KP-00074,1098547182,Angie Muñoz Torres,M,19.0,Bogotá,Ruta Empleo Joven,Redes sociales,G03,1,2026-07-28,angie8242@hotmail.com,3875942153
+KP-00161,1055565600,Brayan Quintero Hernández,M,22.0,Bogotá,Ruta Empleo Joven,Aliado,G01,2,2026-07-28,brayan4382@outlook.com,3088123897
+KP-00535,1057014846,Luisa Rodríguez Moreno,M,22.0,Medellín,Talento Digital,Redes sociales,G01,2,2026-07-28,luisa5718@outlook.com,3288559902
+KP-00580,1003570134,Jhon Ortiz Rodríguez,F,32.0,Bogotá,Impulsa Mujer,Unidad móvil,G03,1,2026-07-28,jhon5088@outlook.com,3130954374
+KP-00598,1029626267,Yuli Ramírez Rojas,F,22.0,Bogotá,Impulsa Mujer,Aliado,G06,3,2026-07-29,yuli696@hotmail.com,3739121412
+KP-00638,1072951875,Jhon Torres Cárdenas,F,18.0,Soacha,Impulsa Mujer,Aliado,G02,2,2026-07-29,jhon3499@gmail.com,3818815790
+KP-00700,1012917375,Karen Quintero Ortiz,F,25.0,Bogotá,Impulsa Mujer,Unidad móvil,G01,3,2026-07-29,karen9482@hotmail.com,3304879185
+KP-00333,1029121482,Natalia Ortiz Martínez,M,20.0,Bogotá,Talento Digital,Referido,G05,3,2026-07-29,natalia9146@gmail.com,3419776077
+KP-00036,1051084968,Daniela Moreno Cárdenas,F,18.0,Cali,Ruta Empleo Joven,Unidad móvil,G03,1,2026-07-29,daniela5919@hotmail.com,3467563471
+KP-00136,1022875224,Cristian Muñoz Ramírez,M,19.0,Cali,Ruta Empleo Joven,Redes sociales,G05,3,2026-07-29,cristian9512@outlook.com,3760120096
+KP-00664,1030372313,Felipe Quintero Ortiz,F,27.0,Bogotá,Impulsa Mujer,Redes sociales,G05,1,2026-07-30,felipe2191@hotmail.com,3265359759
+KP-00669,1075783662,Kevin Ramírez Moreno,F,26.0,Cali,Impulsa Mujer,Referido,G04,1,2026-07-31,kevin4361@outlook.com,3176539553
+KP-00412,1028540256,Camila Martínez Gómez,NB,24.0,Cali,Talento Digital,Unidad móvil,G04,1,2026-07-31,camila6067@outlook.com,3822892223
+KP-00228,1056653377,Yuli Muñoz Rojas,F,19.0,Bogotá,Ruta Empleo Joven,Aliado,G03,2,2026-07-31,yuli4969@gmail.com,3727473191
+KP-00202,1084494477,Felipe Cárdenas Rojas,M,20.0,Bogotá,Ruta Empleo Joven,Referido,G02,3,2026-07-31,felipe4272@hotmail.com,3049968458
+KP-00615,1097801228,Luisa Gómez Castro,F,26.0,Bogotá,Impulsa Mujer,Redes sociales,G02,2,2026-07-31,luisa9182@gmail.com,3440784042
+KP-00426,1039180719,Paula Pineda Castro,F,20.0,Bogotá,Talento Digital,Aliado,G04,3,2026-07-31,paula1873@gmail.com,3044992657
+KP-00314,1086396504,Natalia Gómez Díaz,F,18.0,Medellín,Talento Digital,Unidad móvil,G02,2,2026-07-31,natalia4690@hotmail.com,3311711073
+KP-00067,1078547019,Jhon Rojas Ortiz,M,27.0,Bogotá,Ruta Empleo Joven,Redes sociales,G04,2,2026-08-01,jhon2741@gmail.com,3585672303
+KP-00053,1077846394,Sebastián Cárdenas Ramírez,F,23.0,Medellín,Ruta Empleo Joven,Referido,G04,1,2026-08-01,sebastian2641@hotmail.com,3776197549
+KP-00425,1039899967,Angie Martínez Moreno,NB,21.0,Bogotá,Talento Digital,Unidad móvil,G03,3,2026-08-02,angie7402@gmail.com,3330791162
+KP-00064,1096089838,Paula López Cárdenas,F,19.0,Bogotá,Ruta Empleo Joven,Referido,G01,2,2026-08-02,paula6610@gmail.com,3699335080
+KP-00213,1091170837,Cristian Quintero Ramírez,F,23.0,Cali,Ruta Empleo Joven,Redes sociales,G01,2,2026-08-03,cristian7099@outlook.com,3497876454
+KP-00366,1082681569,Luisa Ortiz Castro,F,27.0,Medellín,Talento Digital,Redes sociales,G05,1,2026-08-03,luisa7610@outlook.com,3224245842
+KP-00658,1002906123,Camila Torres Muñoz,F,18.0,Cali,Impulsa Mujer,Redes sociales,G05,2,2026-08-03,camila3964@hotmail.com,3531746683
+KP-00024,1024222302,Camila Rodríguez Muñoz,M,23.0,Bogotá,Ruta Empleo Joven,Referido,G05,2,2026-08-03,camila1253hotmail.com,3751837281
+KP-00220,1008363235,María Rodríguez Cárdenas,M,18.0,Medellín,Ruta Empleo Joven,Redes sociales,G06,1,2026-08-04,maria9139@outlook.com,3817775616
+KP-00205,1079240094,Paula Gómez Torres,M,21.0,Medellín,Ruta Empleo Joven,Redes sociales,G04,2,2026-08-04,paula2233@outlook.com,3526970002
+KP-00673,1060619118,María Ortiz Suárez,F,25.0,Bogotá,Impulsa Mujer,Aliado,G06,1,2026-08-05,maria7106@hotmail.com,3678126315
+KP-00686,1088743536,Juan Gómez Suárez,F,23.0,Cali,Impulsa Mujer,Referido,G04,2,2026-08-05,juan4823@gmail.com,3120956853
+KP-00153,1067729474,Juan Martínez Ramírez,M,23.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G02,2,2026-08-05,,3512022583
+KP-00554,1037990875,Óscar Quintero Gómez,F,28.0,Bogotá,Impulsa Mujer,Aliado,G01,2,2026-08-05,oscar3984@gmail.com,3048169147
+KP-00547,1006507567,Karen Moreno Cárdenas,M,25.0,Medellín,Talento Digital,Aliado,G04,1,2026-08-05,karen2602@outlook.com,3517657023
+KP-00653,1006797921,Sara López Martínez,F,33.0,Barranquilla,Impulsa Mujer,Unidad móvil,G03,1,2026-08-05,sara3137@hotmail.com,3510667968
+KP-00525,1076890409,Jhon Pineda Quintero,F,24.0,Medellín,Talento Digital,Redes sociales,G03,1,2026-08-05,jhon3203@gmail.com,3730542541
+KP-00173,1062874080,Juan Quintero Muñoz,F,20.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G04,2,2026-08-05,juan1028@gmail.com,3615888945
+KP-00519,1041073176,Daniela Ortiz Gómez,F,25.0,Medellín,Talento Digital,Redes sociales,G01,2,2026-08-06,daniela2212@hotmail.com,3402927311
+KP-00288,1048733945,Angie Ortiz Cárdenas,F,18.0,Bogotá,Ruta Empleo Joven,Aliado,G04,1,2026-08-06,angie7009@outlook.com,3430365908
+KP-00235,1088963376,Daniela Pineda Muñoz,M,23.0,Medellín,Ruta Empleo Joven,Redes sociales,G02,1,2026-08-06,daniela2361@outlook.com,3789759082
+KP-00602,1090641120,Luisa Hernández Suárez,F,25.0,Bogotá,Impulsa Mujer,Aliado,G06,2,2026-08-06,luisa5848@gmail.com,3815594146
+KP-00119,1086280750,Andrés Ramírez Muñoz,M,27.0,Soacha,Ruta Empleo Joven,Redes sociales,G05,2,2026-08-06,andres9979@outlook.com,3754748421
+KP-00487,1074773676,Santiago Vargas Cárdenas,F,21.0,Bogotá,Talento Digital,Unidad móvil,G02,1,2026-08-06,santiago2392@hotmail.com,3255791009
+KP-00633,1077263559,María Díaz Ramírez,F,24.0,Soacha,Impulsa Mujer,Redes sociales,G05,3,2026-08-07,maria5710@outlook.com,3449013086
+KP-00398,1015535092,Steven Martínez López,M,18.0,Bogotá,Talento Digital,Unidad móvil,G04,2,2026-08-07,steven9944@hotmail.com,3579901475
+KP-00583,1038435696,Laura Rojas Cárdenas,F,27.0,Cali,Impulsa Mujer,Redes sociales,G06,3,2026-08-07,laura6827@hotmail.com,3442589309
+KP-00501,1008196287,Paula Torres Gómez,F,18.0,Cali,Talento Digital,Unidad móvil,G01,1,2026-08-07,paula2420@hotmail.com,3013960252
+KP-00172,1068421540,Brayan Cárdenas Cárdenas,F,21.0,Soacha,Ruta Empleo Joven,Referido,G05,1,2026-08-08,brayan7341@outlook.com,
+KP-00536,1086753737,Óscar Castro Martínez,F,20.0,Soacha,Talento Digital,Redes sociales,G04,3,2026-08-08,oscar7450@gmail.com,3549497691
+KP-00585,1037896733,Daniela Muñoz Martínez,F,26.0,Bogotá,Impulsa Mujer,Redes sociales,G03,1,2026-08-08,daniela5565@gmail.com,3457937024
+KP-00082,1016651737,Luisa Hernández Rojas,M,24.0,Bogotá,Ruta Empleo Joven,Aliado,G02,1,2026-08-08,luisa5240@hotmail.com,3724081474
+KP-00341,1092509482,Valentina Gómez Vargas,F,22.0,Bogotá,Talento Digital,Aliado,G04,1,2026-08-08,valentina6676@hotmail.com,3949063830
+KP-00120,1070787808,Brayan Castro Gómez,M,19.0,Barranquilla,Ruta Empleo Joven,Unidad móvil,G06,1,2026-08-08,brayan9112@outlook.com,3811735398
+KP-00435,1097902068,Diego Díaz Gómez,M,24.0,Bogotá,Talento Digital,Redes sociales,G05,2,2026-08-08,diego2021@gmail.com,3845879384
+KP-00017,1032133769,Luisa Pineda Martínez,M,22.0,Cali,Ruta Empleo Joven,Unidad móvil,G04,2,2026-08-09,luisa968@outlook.com,3692616112
+KP-00654,1078259269,María Quintero Ramírez,F,32.0,Bogotá,Impulsa Mujer,Unidad móvil,G06,2,2026-08-09,maria1909@hotmail.com,3904190511
+KP-00200,1092190523,María Quintero Moreno,M,26.0,Cali,Ruta Empleo Joven,Aliado,G05,4,2026-08-09,maria5562@hotmail.com,3219571680
+KP-00468,1022089365,Laura Castro López,M,27.0,Soacha,Talento Digital,Redes sociales,G05,1,2026-08-09,laura8732@gmail.com,3025315110
+KP-00405,1073016872,Luisa Pineda López,M,29.0,Soacha,Talento Digital,Redes sociales,G03,1,2026-08-09,luisa5874@hotmail.com,3858720540
+KP-00367,1068680599,María Ortiz Pineda,M,24.0,Bogotá,Talento Digital,Redes sociales,G06,2,2026-08-10,maria3856@hotmail.com,3902881500
+KP-00110,1078546777,Yuli Moreno Suárez,M,25.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G05,1,2026-08-10,yuli7767@hotmail.com,3513713810
+KP-00644,1079247069,Brayan Rodríguez Quintero,F,28.0,Medellín,Impulsa Mujer,Unidad móvil,G03,3,2026-08-10,brayan6872@outlook.com,3040013430
+KP-00661,1011334231,Óscar Ramírez Hernández,F,18.0,Bogotá,Impulsa Mujer,Unidad móvil,G04,1,2026-08-11,oscar5543@hotmail.com,3388191485
+KP-00596,1099057828,Sebastián Rojas López,F,31.0,Bogotá,Impulsa Mujer,Referido,G05,4,2026-08-11,sebastian8786@gmail.com,3341560547
+KP-00609,1045395032,Óscar Castro Ramírez,F,22.0,Bogotá,Impulsa Mujer,Redes sociales,G02,2,2026-08-11,oscar3517@hotmail.com,3242744279
+KP-00116,1008488212,Steven Rojas Torres,M,20.0,Bogotá,Ruta Empleo Joven,Redes sociales,G03,3,2026-08-11,steven7809@outlook.com,3391820160
+KP-00397,1056172887,Daniela Vargas Gómez,F,23.0,Bogotá,Talento Digital,Redes sociales,G02,2,2026-08-12,daniela8084@hotmail.com,3891926932
+KP-00577,1083133750,Felipe López Rojas,F,19.0,Bogotá,Impulsa Mujer,Unidad móvil,G02,3,2026-08-12,felipe935@gmail.com,3267741872
+KP-00677,1092273713,Óscar Rodríguez Vargas,F,19.0,Bogotá,Impulsa Mujer,Unidad móvil,G01,3,2026-08-13,oscar7945@outlook.com,3212401372
+KP-00534,1092088155,Kevin Pineda Ortiz,F,22.0,Medellín,Talento Digital,Referido,G01,3,2026-08-13,kevin893@gmail.com,3402677430
+KP-00623,1013079011,Camila Ortiz Suárez,F,25.0,Cali,Impulsa Mujer,Unidad móvil,G02,2,2026-08-13,camila3358gmail.com,3125566656
+KP-00048,1051188142,Valentina Torres Díaz,F,25.0,Bogotá,Ruta Empleo Joven,Aliado,G04,1,2026-08-13,valentina9695@gmail.com,3244695057
+KP-00410,1032411037,Camila Ortiz Ortiz,M,19.0,Bogotá,Talento Digital,Aliado,G01,3,2026-08-14,camila9781@hotmail.com,3590553565
+KP-00290,1012788775,Paula Ramírez Gómez,F,27.0,Cali,Ruta Empleo Joven,Referido,G05,3,2026-08-14,paula2217@hotmail.com,3041186828
+KP-00301,1025320839,Luisa Torres López,NB,20.0,Medellín,Talento Digital,Redes sociales,G06,1,2026-08-14,luisa3865@outlook.com,3343549593
+KP-00368,1084135910,Felipe Castro Rojas,M,22.0,Barranquilla,Talento Digital,Redes sociales,G05,2,2026-08-14,felipe4739@outlook.com,3607684320
+KP-00282,1034903792,Luisa Ortiz Vargas,F,23.0,Soacha,Ruta Empleo Joven,Unidad móvil,G04,2,2026-08-15,luisa9341@outlook.com,3570776474
+KP-00256,1001103689,Felipe Gómez Rodríguez,F,18.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G01,1,2026-08-16,felipe6245@gmail.com,3767420463
+KP-00344,1004507019,Cristian Rojas Hernández,,32.0,Barranquilla,Talento Digital,Redes sociales,G04,1,2026-08-16,cristian4309@hotmail.com,3884351168
+KP-00201,1018719775,Camila Rojas Pineda,F,19.0,Bogotá,Ruta Empleo Joven,Aliado,G06,4,2026-08-17,camila1448@hotmail.com,3754839869
+KP-00595,1053972794,Andrés Pineda Suárez,F,26.0,Medellín,Impulsa Mujer,Referido,G05,2,2026-08-17,andres7780@hotmail.com,3963799014
+KP-00277,1086493856,Felipe Ramírez López,F,23.0,Bogotá,Ruta Empleo Joven,Unidad móvil,G02,1,2026-08-17,felipe4442@outlook.com,3583207640
+KP-00506,1014095499,Brayan Cárdenas Cárdenas,F,24.0,Bogotá,Talento Digital,Redes sociales,G01,1,2026-08-17,brayan6183@hotmail.com,3351497193
+KP-00587,1064833233,Felipe Rodríguez Ramírez,F,25.0,Medellín,Impulsa Mujer,Redes sociales,G04,2,2026-08-18,felipe1829@hotmail.com,3969927825
+KP-00624,1044781587,Sara Rodríguez Muñoz,F,20.0,Bogotá,Impulsa Mujer,Redes sociales,G01,2,2026-08-19,sara9566@gmail.com,3633722073
+KP-00561,1036069609,Felipe Torres Díaz,F,30.0,Soacha,Impulsa Mujer,Redes sociales,G05,2,2026-08-19,felipe4832@hotmail.com,3103249533
+KP-00125,1039613958,Laura Quintero Quintero,M,24.0,Barranquilla,Ruta Empleo Joven,Redes sociales,G01,3,2026-08-19,laura6519@outlook.com,3154769917
+KP-00643,1084447247,Jhon Rojas Quintero,F,27.0,Medellín,Impulsa Mujer,Redes sociales,G04,1,2026-08-20,jhon7364@hotmail.com,3080117242
+KP-00484,1090058234,Steven Moreno López,F,23.0,Bogotá,Talento Digital,Aliado,G03,2,2026-08-20,steven5863@outlook.com,3303080544
+KP-00124,1084632920,Camila Hernández Quintero,F,21.0,Bogotá,Ruta Empleo Joven,Referido,G06,2,2026-08-20,camila7637@outlook.com,3404724935
