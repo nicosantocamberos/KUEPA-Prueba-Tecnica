@@ -84,7 +84,7 @@ else:
     st.success("No hay estudiantes en riesgo con los filtros actuales.")
 
 # Sub-sección B: Tasas de Graduación Corregidas (Validación de 3 campos)
-st.subheader("🎓 Tasa de Graduación Real por Canal")
+st.subheader("Tasa de Graduación Real por Canal")
 df_tasas_view = df_tasas_corregidas[df_tasas_corregidas['proyecto'].isin(df_filtrado['proyecto'].unique())] if proyecto_sel != "Todos" else df_tasas_corregidas
 
 st.dataframe(
