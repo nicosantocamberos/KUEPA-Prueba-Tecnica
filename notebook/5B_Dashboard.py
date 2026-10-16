@@ -60,7 +60,7 @@ with c2:
 st.header("2. Gestión de Riesgo y Resultados Académicos")
 
 # Sub-sección A: Tabla de Estudiantes en Riesgo (Lo más importante para el gestor)
-st.subheader("⚠️ Estudiantes en Riesgo de Deserción (Prioridad de Contacto)")
+st.subheader(" Estudiantes en Riesgo de Deserción (Prioridad de Contacto)")
 
 r1, r2 = st.columns(2)
 with r1:
@@ -85,7 +85,7 @@ else:
 
 # Sub-sección B: Tasas de Graduación Corregidas (Validación de 3 campos)
 st.subheader("🎓 Tasa de Graduación Real por Canal")
-df_tasas_view = df_tasas_corregidas[df_tasas_corregidas['proyecto'].isin(df_filtrado['proyecto'].unique())] if proyecto_sel != "Todos" else df_tasas
+df_tasas_view = df_tasas_corregidas[df_tasas_corregidas['proyecto'].isin(df_filtrado['proyecto'].unique())] if proyecto_sel != "Todos" else df_tasas_corregidas
 
 st.dataframe(
     df_tasas_view[['proyecto', 'canal_convocatoria', 'total_inscritos', 'tasa_graduacion_real']], 
